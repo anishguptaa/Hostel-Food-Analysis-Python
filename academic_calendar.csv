@@ -1,0 +1,1827 @@
+Date,Academic_Year,Day_Type,Academic_Period,Week_Number,Semester,Is_Exam_Day,Exam_Type,Exam_Stress_Index,Is_Festival,Festival_Name,Festival_Category,Is_Long_Weekend,Expected_Occupancy_Percent,Cultural_Event,Special_Menu_Day,Institute_Notification_Sent,COVID_Restriction_Level
+"January 01, 2021",2020-21,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,35.0,Alumni Weekend,False,True,2
+2021-01-02,2020-21,Weekend,Orientation,1,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+2021-01-03,2020-21,Weekend,Orientation,1,Even_Sem,False,,0,False,,,False,35.0,,True,True,2
+"January 04, 2021",2020-21,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+05/01/2021,2020-21,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+"January 06, 2021",2020-21,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-01-07,2020-21,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+2021-01-08,2020-21,Weekday,Orientation,2,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-01-09,2020-21,Weekend,Orientation,2,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-01-10,2020-21,Weekend,Orientation,2,Even_Sem,False,,0,False,,,False,35.0,,True,True,2
+2021-01-11,2020-21,Weekday,Regular,2,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-01-12,2020-21,Weekday,Regular,2,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+13/01/2021,2020-21,Weekday,Regular,2,Even_Sem,False,,0,True,Pongal,Regional,False,35.0,,True,True,2
+2021-01-14,2020-21,Weekday,Regular,2,Even_Sem,False,,0,True,Pongal,Regional,False,35.0,,True,True,2
+2021-01-15,2020-21,Weekday,Regular,3,Even_Sem,False,,0,True,Pongal,Regional,False,35.0,,True,True,2
+2021-01-16,2020-21,Weekend,Regular,3,Even_Sem,False,,0,False,,,True,35.0,,False,True,2
+"January 17, 2021",2020-21,Weekend,Regular,3,Even_Sem,False,,0,False,,,False,35.0,,True,True,2
+"January 18, 2021",2020-21,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+2021-01-19,2020-21,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-01-20,2020-21,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-01-21,2020-21,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+"January 22, 2021",2020-21,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+23/01/2021,2020-21,Weekend,Regular,4,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-01-24,2020-21,weekend,Regular,4,Even_Sem,False,,0,False,,,False,35.0,,True,True,2
+2021-01-25,2020-21,Weekday,Regular,4,Even_Sem,False,,0,True,Republic Day,National,False,35.0,,True,True,2
+26/01/2021,2020-21,Weekday,Regular,4,Even_Sem,False,,0,True,Republic Day,National,False,35.0,,True,False,2
+"January 27, 2021",2020-21,Weekday,Regular,4,Even_Sem,False,,0,True,Republic Day,National,False,35.0,,True,False,2
+"January 28, 2021",2020-21,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-01-29,2020-21,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-01-30,2020-21,weekend,Regular,5,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-01-31,2020-21,Weekend,Regular,5,Even_Sem,False,,0,False,,,False,35.0,,True,True,2
+2021-02-01,2020-21,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+2021-02-02,2020-21,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+"February 03, 2021",2020-21,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+"February 04, 2021",2020-21,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-02-05,2020-21,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+"February 06, 2021",2020-21,Weekend,Regular,6,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+07/02/2021,2020-21,Weekend,Regular,6,Even_Sem,False,,0,False,,,False,35.0,,True,False,2
+2021-02-08,2020-21,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+2021-02-09,2020-21,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+10/02/2021,2020-21,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+2021-02-11,2020-21,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-02-12,2020-21,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+13/02/2021,2020-21,Weekend,Regular,7,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+2021-02-14,2020-21,Weekend,Regular,7,Even_Sem,False,,0,False,,,False,35.0,,True,False,2
+15/02/2021,2020-21,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-02-16,2020-21,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+2021-02-17,2020-21,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+2021-02-18,2020-21,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-02-19,2020-21,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+20/02/2021,2020-21,Weekend,Regular,8,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-02-21,2020-21,Weekend,Regular,8,Even_Sem,False,,0,False,,,False,35.0,,True,True,2
+2021-02-22,2020-21,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+23/02/2021,2020-21,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-02-24,2020-21,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-02-25,2020-21,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+"February 26, 2021",2020-21,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+"February 27, 2021",2020-21,Weekend,Regular,9,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-02-28,2020-21,Weekend,Regular,9,Even_Sem,False,,0,False,,,False,35.0,,True,False,2
+2021-03-01,2020-21,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+"March 02, 2021",2020-21,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,35.0,Cultural Fest,False,False,2
+2021-03-03,2020-21,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-03-04,2020-21,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+"March 05, 2021",2020-21,Weekday,Regular,10,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+2021-03-06,2020-21,Weekend,Regular,10,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-03-07,2020-21,WEEKEND,Regular,10,Even_Sem,False,,0,False,,,False,35.0,,True,True,2
+2021-03-08,2020-21,Weekday,Regular,10,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-03-09,2020-21,Weekday,Regular,10,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+10/03/2021,2020-21,Weekday,Exam,10,Even_Sem,True,Mid_Sem,5,False,,,False,35.0,,False,True,2
+"March 11, 2021",2020-21,Weekday,Exam,10,Even_Sem,True,Mid_Sem,5,False,,,False,35.0,,False,True,2
+2021-03-12,2020-21,Week Day,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,35.0,,False,False,2
+2021-03-13,2020-21,Weekend,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,35.0,,False,True,2
+2021-03-14,2020-21,Weekend,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,35.0,,True,True,2
+2021-03-15,2020-21,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,35.0,,False,True,2
+2021-03-16,2020-21,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,35.0,,False,True,2
+2021-03-17,2020-21,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,35.0,,False,False,2
+2021-03-18,2020-21,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,35.0,,False,True,2
+2021-03-19,2020-21,Weekday,Exam,12,Even_Sem,True,Mid_Sem,5,False,,,False,35.0,,False,False,2
+20/03/2021,2020-21,Weekend,Exam,12,Even_Sem,True,Mid_Sem,5,False,,,False,35.0,,False,True,2
+21/03/2021,2020-21,Weekend,Regular,12,Even_Sem,False,,0,False,,,False,35.0,,True,True,2
+22/03/2021,2020-21,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-03-23,2020-21,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+"March 24, 2021",2020-21,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-03-25,2020-21,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-03-26,2020-21,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-03-27,2020-21,Weekend,Regular,13,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-03-28,2020-21,Weekend,Regular,13,Even_Sem,False,,0,True,Holi,Religious,True,35.0,,True,True,2
+2021-03-29,2020-21,Weekday,Regular,13,Even_Sem,False,,0,True,Holi,Religious,False,35.0,,True,True,2
+2021-03-30,2020-21,Weekday,Regular,13,Even_Sem,False,,0,True,Holi,Religious,False,35.0,,True,True,2
+2021-03-31,2020-21,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+2021-04-01,2020-21,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+"April 02, 2021",2020-21,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+03/04/2021,2020-21,Weekend,Regular,14,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-04-04,2020-21,Weekend,Regular,14,Even_Sem,False,,0,False,,,False,35.0,,True,False,2
+2021-04-05,2020-21,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+"April 06, 2021",2020-21,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+07/04/2021,2020-21,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+2021-04-08,2020-21,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+"April 09, 2021",2020-21,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+10/04/2021,2020-21,Weekend,Regular,15,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+2021-04-11,2020-21,Weekend,Regular,15,Even_Sem,False,,0,False,,,False,35.0,,True,True,2
+"April 12, 2021",2020-21,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-04-13,2020-21,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+14/04/2021,2020-21,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-04-15,2020-21,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+16/04/2021,2020-21,Weekday,Regular,16,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-04-17,2020-21,Weekend,Regular,16,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-04-18,2020-21,Weekend,Regular,16,Even_Sem,False,,0,False,,,False,35.0,,True,False,2
+19/04/2021,2020-21,Weekday,Regular,16,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+"April 20, 2021",2020-21,WKDAY,Pre_Exam,16,Even_Sem,False,,4,False,,,False,35.0,,False,True,2
+2021-04-21,2020-21,Weekday,Pre_Exam,16,Even_Sem,False,,4,False,,,False,35.0,,False,True,2
+2021-04-22,2020-21,WKDAY,Pre_Exam,16,Even_Sem,False,,4,False,,,False,35.0,,False,True,2
+2021-04-23,2020-21,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,35.0,,False,True,2
+2021-04-24,2020-21,Weekend,Pre_Exam,17,Even_Sem,False,,4,False,,,False,35.0,,False,False,2
+25/04/2021,2020-21,Weekend,Pre_Exam,17,Even_Sem,False,,4,False,,,False,35.0,,True,False,2
+2021-04-26,2020-21,Week Day,Pre_Exam,17,Even_Sem,False,,4,False,,,False,35.0,,False,False,2
+2021-04-27,2020-21,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,35.0,,False,True,2
+28/04/2021,2020-21,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,35.0,,False,True,2
+2021-04-29,2020-21,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,35.0,,False,True,2
+2021-04-30,2020-21,Weekday,Pre_Exam,18,Even_Sem,False,,4,False,,,False,35.0,,False,True,2
+"May 01, 2021",2020-21,Weekend,Regular,18,Even_Sem,False,,0,False,,,False,35.0,Annual Day,False,False,2
+2021-05-02,2020-21,Weekend,Regular,18,Even_Sem,False,,0,False,,,False,35.0,,True,False,2
+"May 03, 2021",2020-21,Weekday,Regular,18,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+"May 04, 2021",2020-21,Weekday,Regular,18,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+"May 05, 2021",2020-21,Weekday,Exam,18,Even_Sem,True,End_Sem,8,False,,,False,35.0,,False,False,2
+2021-05-06,2020-21,Weekday,Exam,18,Even_Sem,True,End_Sem,8,False,,,False,35.0,,False,True,2
+2021-05-07,2020-21,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,35.0,,False,False,2
+2021-05-08,2020-21,Weekend,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,35.0,,False,True,2
+09/05/2021,2020-21,Weekend,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,35.0,,True,False,2
+2021-05-10,2020-21,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,35.0,,False,True,2
+"May 11, 2021",2020-21,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,35.0,,False,True,2
+2021-05-12,2020-21,Weekday,Exam,19,Even_Sem,True,End_Sem,8,True,Eid,Religious,False,35.0,,True,True,2
+13/05/2021,2020-21,Weekday,Exam,19,Even_Sem,True,End_Sem,8,True,Eid,Religious,False,35.0,,True,False,2
+14/05/2021,2020-21,Weekday,Exam,20,Even_Sem,True,End_Sem,8,True,Eid,Religious,False,35.0,,True,True,2
+2021-05-15,2020-21,Weekend,Exam,20,Even_Sem,True,End_Sem,8,False,,,True,35.0,,False,True,2
+"May 16, 2021",2020-21,weekend,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,35.0,,True,False,2
+"May 17, 2021",2020-21,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,35.0,,False,False,2
+2021-05-18,2020-21,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,35.0,,False,True,2
+19/05/2021,2020-21,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,35.0,,False,False,2
+20/05/2021,2020-21,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,35.0,,False,False,2
+2021-05-21,2020-21,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,35.0,,False,False,2
+2021-05-22,2020-21,Weekend,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,35.0,,False,True,2
+2021-05-23,2020-21,Weekend,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,35.0,,True,True,2
+2021-05-24,2020-21,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,35.0,,False,True,2
+2021-05-25,2020-21,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,35.0,,False,True,2
+2021-05-26,2020-21,Weekday,Post_Exam,21,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-05-27,2020-21,Weekday,Post_Exam,21,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+2021-05-28,2020-21,Weekday,Post_Exam,22,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+2021-05-29,2020-21,Weekend,Post_Exam,22,Even_Sem,False,,0,False,,,False,35.0,,False,False,2
+2021-05-30,2020-21,Weekend,Post_Exam,22,Even_Sem,False,,0,False,,,False,35.0,,True,True,2
+2021-05-31,2020-21,Weekday,Post_Exam,22,Even_Sem,False,,0,False,,,False,35.0,,False,True,2
+01/06/2021,2020-21,Weekday,Vacation,22,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+"June 02, 2021",2020-21,Weekday,Vacation,22,Summer_Break,False,,0,False,,,False,35.0,,False,False,2
+2021-06-03,2020-21,Weekday,Vacation,22,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+2021-06-04,2020-21,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,35.0,,False,False,2
+2021-06-05,2020-21,Weekend,Vacation,23,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+"June 06, 2021",2020-21,Weekend,Vacation,23,Summer_Break,False,,0,False,,,False,35.0,,True,True,2
+07/06/2021,2020-21,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,35.0,,False,False,2
+2021-06-08,2020-21,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+2021-06-09,2020-21,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+10/06/2021,2020-21,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+2021-06-11,2020-21,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+12/06/2021,2020-21,Weekend,Vacation,24,Summer_Break,False,,0,False,,,False,35.0,,False,False,2
+13/06/2021,2020-21,Weekend,Vacation,24,Summer_Break,False,,0,False,,,False,35.0,,True,True,2
+2021-06-14,2020-21,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+15/06/2021,2020-21,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+2021-06-16,2020-21,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+2021-06-17,2020-21,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+18/06/2021,2020-21,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,35.0,,False,False,2
+2021-06-19,2020-21,Weekend,Vacation,25,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+2021-06-20,2020-21,Weekend,Vacation,25,Summer_Break,False,,0,False,,,False,35.0,,True,True,2
+2021-06-21,2020-21,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+22/06/2021,2020-21,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+2021-06-23,2020-21,weekday,Vacation,25,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+24/06/2021,2020-21,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+"June 25, 2021",2020-21,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+2021-06-26,2020-21,Weekend,Vacation,26,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+27/06/2021,2020-21,Weekend,Vacation,26,Summer_Break,False,,0,False,,,False,35.0,,True,True,2
+2021-06-28,2020-21,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,35.0,,False,True,2
+2021-06-29,2020-21,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,35.0,,False,False,2
+30/06/2021,2020-21,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,35.0,Sports Meet,False,True,2
+2021-07-01,2021-22,Weekday,Vacation,26,Odd_Sem,False,,0,False,,,False,10.5,,False,True,1
+2021-07-02,2021-22,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,10.5,,False,False,1
+"July 03, 2021",2021-22,Weekend,Vacation,27,Odd_Sem,False,,0,False,,,False,8.9,,False,False,1
+2021-07-04,2021-22,Weekend,Vacation,27,Odd_Sem,False,,0,False,,,False,8.9,,True,True,1
+2021-07-05,2021-22,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,10.5,,False,True,1
+06/07/2021,2021-22,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,10.5,,False,True,1
+2021-07-07,2021-22,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,10.5,,False,True,1
+2021-07-08,2021-22,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,10.5,,False,False,1
+2021-07-09,2021-22,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,10.5,,False,False,1
+10/07/2021,2021-22,Weekend,Vacation,28,Odd_Sem,False,,0,False,,,False,8.9,,False,True,1
+"July 11, 2021",2021-22,Weekend,Vacation,28,Odd_Sem,False,,0,False,,,False,8.9,,True,True,1
+"July 12, 2021",2021-22,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,10.5,,False,False,1
+2021-07-13,2021-22,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,10.5,,False,True,1
+"July 14, 2021",2021-22,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,10.5,,False,False,1
+2021-07-15,2021-22,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,10.5,,False,False,1
+16/07/2021,2021-22,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,10.5,,False,True,1
+"July 17, 2021",2021-22,Weekend,Vacation,29,Odd_Sem,False,,0,False,,,False,8.9,,False,True,1
+2021-07-18,2021-22,Weekend,Vacation,29,Odd_Sem,False,,0,False,,,False,8.9,,True,False,1
+19/07/2021,2021-22,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,10.5,,False,False,1
+"July 20, 2021",2021-22,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,10.5,,False,True,1
+"July 21, 2021",2021-22,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,10.5,,False,True,1
+"July 22, 2021",2021-22,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,10.5,,False,True,1
+2021-07-23,2021-22,Week Day,Vacation,30,Odd_Sem,False,,0,False,,,False,10.5,,False,True,1
+2021-07-24,2021-22,Weekend,Vacation,30,Odd_Sem,False,,0,False,,,False,8.9,,False,False,1
+"July 25, 2021",2021-22,Weekend,Vacation,30,Odd_Sem,False,,0,False,,,False,8.9,,True,True,1
+2021-07-26,2021-22,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,10.5,,False,False,1
+2021-07-27,2021-22,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,10.5,,False,True,1
+2021-07-28,2021-22,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,10.5,,False,True,1
+29/07/2021,2021-22,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,10.5,,False,True,1
+30/07/2021,2021-22,Week Day,Vacation,31,Odd_Sem,False,,0,False,,,False,10.5,,False,False,1
+2021-07-31,2021-22,Weekend,Vacation,31,Odd_Sem,False,,0,False,,,False,8.9,,False,True,1
+2021-08-01,2021-22,Weekend,Regular,31,Odd_Sem,False,,0,False,,,False,56.5,,True,True,1
+"August 02, 2021",2021-22,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-08-03,2021-22,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+04/08/2021,2021-22,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-08-05,2021-22,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+06/08/2021,2021-22,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+"August 07, 2021",2021-22,Weekend,Regular,32,Odd_Sem,False,,0,False,,,False,56.5,,False,True,1
+2021-08-08,2021-22,Weekend,Regular,32,Odd_Sem,False,,0,False,,,False,56.5,,True,False,1
+"August 09, 2021",2021-22,Week Day,Regular,32,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-08-10,2021-22,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+"August 11, 2021",2021-22,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,66.5,,False,False,1
+12/08/2021,2021-22,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,66.5,,False,False,1
+2021-08-13,2021-22,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-08-14,2021-22,Weekend,Regular,33,Odd_Sem,False,,0,True,Independence Day,National,False,36.7,,True,False,1
+"August 15, 2021",2021-22,Weekend,Regular,33,Odd_Sem,False,,0,True,Independence Day,National,True,25.7,,True,True,1
+2021-08-16,2021-22,Weekday,Regular,33,Odd_Sem,False,,0,True,Independence Day,National,False,43.2,,True,True,1
+2021-08-17,2021-22,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-08-18,2021-22,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+19/08/2021,2021-22,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-08-20,2021-22,Weekday,Regular,34,Odd_Sem,False,,0,True,Onam,Regional,False,43.2,,True,False,1
+2021-08-21,2021-22,Weekend,Regular,34,Odd_Sem,False,,0,True,Onam,Regional,True,25.7,,True,False,1
+"August 22, 2021",2021-22,Weekend,Regular,34,Odd_Sem,False,,0,True,Onam,Regional,True,25.7,,True,True,1
+"August 23, 2021",2021-22,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+"August 24, 2021",2021-22,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+"August 25, 2021",2021-22,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+"August 26, 2021",2021-22,Week Day,Regular,34,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-08-27,2021-22,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-08-28,2021-22,Weekend,Regular,35,Odd_Sem,False,,0,False,,,False,56.5,,False,False,1
+29/08/2021,2021-22,Weekend,Regular,35,Odd_Sem,False,,0,False,,,False,56.5,Tech Symposium,True,True,1
+30/08/2021,2021-22,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+"August 31, 2021",2021-22,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-09-01,2021-22,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+"September 02, 2021",2021-22,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,66.5,,False,False,1
+03/09/2021,2021-22,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-09-04,2021-22,Weekend,Regular,36,Odd_Sem,False,,0,False,,,False,56.5,,False,True,1
+2021-09-05,2021-22,Weekend,Regular,36,Odd_Sem,False,,0,False,,,False,56.5,,True,True,1
+2021-09-06,2021-22,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+"September 07, 2021",2021-22,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,66.5,,False,False,1
+2021-09-08,2021-22,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+"September 09, 2021",2021-22,Week Day,Regular,36,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-09-10,2021-22,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,52.5,,False,True,1
+"September 11, 2021",2021-22,Weekend,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,44.6,,False,False,1
+12/09/2021,2021-22,wknd,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,44.6,,True,False,1
+2021-09-13,2021-22,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,52.5,,False,True,1
+"September 14, 2021",2021-22,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,52.5,,False,False,1
+2021-09-15,2021-22,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,52.5,,False,True,1
+"September 16, 2021",2021-22,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,52.5,,False,True,1
+2021-09-17,2021-22,Weekday,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,52.5,,False,False,1
+2021-09-18,2021-22,Weekend,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,44.6,,False,True,1
+"September 19, 2021",2021-22,Weekend,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,44.6,,True,False,1
+2021-09-20,2021-22,Weekday,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,52.5,,False,False,1
+2021-09-21,2021-22,Weekday,Regular,38,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+"September 22, 2021",2021-22,Weekday,Regular,38,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+"September 23, 2021",2021-22,Weekday,Regular,38,Odd_Sem,False,,0,False,,,False,66.5,,False,False,1
+2021-09-24,2021-22,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,66.5,,False,False,1
+"September 25, 2021",2021-22,Weekend,Regular,39,Odd_Sem,False,,0,False,,,False,56.5,,False,False,1
+2021-09-26,2021-22,Weekend,Regular,39,Odd_Sem,False,,0,False,,,False,56.5,,True,False,1
+2021-09-27,2021-22,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+28/09/2021,2021-22,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,66.5,,False,False,1
+29/09/2021,2021-22,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-09-30,2021-22,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+01/10/2021,2021-22,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+02/10/2021,2021-22,Weekend,Regular,40,Odd_Sem,False,,0,True,Gandhi Jayanti,National,False,36.7,,True,True,1
+"October 03, 2021",2021-22,Weekend,Regular,40,Odd_Sem,False,,0,False,,,False,56.5,,True,True,1
+2021-10-04,2021-22,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-10-05,2021-22,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,66.5,,False,False,1
+2021-10-06,2021-22,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+07/10/2021,2021-22,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,66.5,,False,False,1
+2021-10-08,2021-22,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,66.5,,False,False,1
+2021-10-09,2021-22,Weekend,Regular,41,Odd_Sem,False,,0,False,,,False,56.5,,False,True,1
+2021-10-10,2021-22,Weekend,Regular,41,Odd_Sem,False,,0,False,,,False,56.5,,True,True,1
+2021-10-11,2021-22,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-10-12,2021-22,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,66.5,,False,False,1
+13/10/2021,2021-22,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+14/10/2021,2021-22,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+"October 15, 2021",2021-22,Weekday,Regular,42,Odd_Sem,False,,0,False,,,False,66.5,,False,False,1
+"October 16, 2021",2021-22,Weekend,Regular,42,Odd_Sem,False,,0,False,,,False,56.5,,False,True,1
+2021-10-17,2021-22,Weekend,Regular,42,Odd_Sem,False,,0,False,,,False,56.5,,True,True,1
+"October 18, 2021",2021-22,Weekday,Regular,42,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-10-19,2021-22,Weekday,Regular,42,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-10-20,2021-22,Weekday,Pre_Exam,42,Odd_Sem,False,,4,False,,,False,59.5,,False,True,1
+2021-10-21,2021-22,Weekday,Pre_Exam,42,Odd_Sem,False,,4,False,,,False,59.5,,False,True,1
+2021-10-22,2021-22,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,59.5,,False,True,1
+23/10/2021,2021-22,Weekend,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,50.6,,False,True,1
+2021-10-24,2021-22,Weekend,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,50.6,,True,True,1
+2021-10-25,2021-22,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,59.5,,False,False,1
+2021-10-26,2021-22,weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,59.5,,False,True,1
+2021-10-27,2021-22,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,59.5,,False,True,1
+2021-10-28,2021-22,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,59.5,Sports Meet,False,True,1
+2021-10-29,2021-22,Weekday,Pre_Exam,44,Odd_Sem,False,,4,False,,,False,59.5,,False,True,1
+2021-10-30,2021-22,Weekend,Pre_Exam,44,Odd_Sem,False,,4,False,,,False,50.6,,False,True,1
+2021-10-31,2021-22,Weekend,Pre_Exam,44,Odd_Sem,False,,4,False,,,False,50.6,,True,True,1
+01/11/2021,2021-22,Weekday,Regular,44,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+02/11/2021,2021-22,weekday,Regular,44,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-11-03,2021-22,Weekday,Regular,44,Odd_Sem,False,,0,True,Diwali,Religious,False,43.2,,True,True,1
+"November 04, 2021",2021-22,Weekday,Regular,44,Odd_Sem,False,,0,True,Diwali,Religious,False,43.2,,True,False,1
+2021-11-05,2021-22,Weekday,Regular,45,Odd_Sem,False,,0,True,Diwali,Religious,False,43.2,,True,True,1
+06/11/2021,2021-22,Weekend,Regular,45,Odd_Sem,False,,0,False,,,True,39.6,,False,False,1
+2021-11-07,2021-22,Weekend,Regular,45,Odd_Sem,False,,0,False,,,False,56.5,,True,True,1
+2021-11-08,2021-22,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+2021-11-09,2021-22,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,66.5,,False,True,1
+10/11/2021,2021-22,Weekday,Exam,45,Odd_Sem,True,End_Sem,8,False,,,False,52.5,,False,True,1
+2021-11-11,2021-22,Weekday,Exam,45,Odd_Sem,True,End_Sem,8,False,,,False,52.5,,False,True,1
+"November 12, 2021",2021-22,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,52.5,,False,False,1
+2021-11-13,2021-22,wknd,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,44.6,,False,True,1
+2021-11-14,2021-22,Weekend,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,44.6,,True,True,1
+2021-11-15,2021-22,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,52.5,,False,True,1
+2021-11-16,2021-22,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,52.5,,False,True,1
+2021-11-17,2021-22,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,52.5,,False,True,1
+2021-11-18,2021-22,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,52.5,,False,True,1
+"November 19, 2021",2021-22,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,52.5,,False,True,1
+20/11/2021,2021-22,Weekend,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,44.6,,False,True,1
+2021-11-21,2021-22,weekend,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,44.6,,True,False,1
+2021-11-22,2021-22,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,52.5,,False,True,1
+23/11/2021,2021-22,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,52.5,,False,True,1
+2021-11-24,2021-22,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,52.5,,False,True,1
+2021-11-25,2021-22,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,52.5,,False,True,1
+2021-11-26,2021-22,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,52.5,,False,True,1
+"November 27, 2021",2021-22,Weekend,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,44.6,,False,True,1
+2021-11-28,2021-22,weekend,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,44.6,,True,True,1
+2021-11-29,2021-22,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,52.5,,False,True,1
+2021-11-30,2021-22,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,52.5,,False,True,1
+2021-12-01,2021-22,Weekday,Post_Exam,48,Summer_Break,False,,0,False,,,False,66.5,,False,True,1
+"December 02, 2021",2021-22,Weekday,Post_Exam,48,Summer_Break,False,,0,False,,,False,66.5,,False,True,1
+2021-12-03,2021-22,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,66.5,,False,True,1
+"December 04, 2021",2021-22,Weekend,Post_Exam,49,Summer_Break,False,,0,False,,,False,56.5,,False,True,1
+2021-12-05,2021-22,Weekend,Post_Exam,49,Summer_Break,False,,0,False,,,False,56.5,,True,True,1
+"December 06, 2021",2021-22,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,66.5,,False,False,1
+2021-12-07,2021-22,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,66.5,,False,False,1
+08/12/2021,2021-22,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,66.5,,False,True,1
+2021-12-09,2021-22,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,66.5,,False,False,1
+2021-12-10,2021-22,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,66.5,,False,True,1
+2021-12-11,2021-22,Weekend,Post_Exam,50,Summer_Break,False,,0,False,,,False,56.5,,False,False,1
+2021-12-12,2021-22,Weekend,Post_Exam,50,Summer_Break,False,,0,False,,,False,56.5,,True,True,1
+2021-12-13,2021-22,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,66.5,,False,True,1
+14/12/2021,2021-22,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,66.5,,False,True,1
+2021-12-15,2021-22,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,66.5,,False,True,1
+2021-12-16,2021-22,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,66.5,,False,True,1
+2021-12-17,2021-22,Week Day,Post_Exam,51,Summer_Break,False,,0,False,,,False,66.5,,False,True,1
+2021-12-18,2021-22,Weekend,Post_Exam,51,Summer_Break,False,,0,False,,,False,56.5,,False,True,1
+"December 19, 2021",2021-22,Weekend,Post_Exam,51,Summer_Break,False,,0,False,,,False,56.5,,True,True,1
+"December 20, 2021",2021-22,Weekday,Vacation,51,Summer_Break,False,,0,False,,,False,10.5,,False,True,1
+21/12/2021,2021-22,Weekday,Vacation,51,Summer_Break,False,,0,False,,,False,10.5,,False,True,1
+2021-12-22,2021-22,Weekday,Vacation,51,Summer_Break,False,,0,False,,,False,10.5,,False,False,1
+2021-12-23,2021-22,Weekday,Vacation,51,Summer_Break,False,,0,False,,,False,10.5,,False,True,1
+"December 24, 2021",2021-22,Weekday,Vacation,52,Summer_Break,False,,0,True,Christmas,Religious,False,6.8,,True,True,1
+"December 25, 2021",2021-22,Weekend,Vacation,52,Summer_Break,False,,0,True,Christmas,Religious,True,4.1,,True,False,1
+26/12/2021,2021-22,Weekend,Vacation,52,Summer_Break,False,,0,True,Christmas,Religious,True,4.1,,True,True,1
+2021-12-27,2021-22,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,10.5,Tech Symposium,False,False,1
+28/12/2021,2021-22,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,10.5,,False,True,1
+"December 29, 2021",2021-22,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,10.5,,False,True,1
+30/12/2021,2021-22,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,10.5,,False,True,1
+2021-12-31,2021-22,Weekday,Vacation,53,Summer_Break,False,,0,False,,,False,10.5,,False,True,1
+"January 01, 2022",2021-22,weekend,Orientation,1,Even_Sem,False,,0,False,,,False,56.5,,False,True,1
+2022-01-02,2021-22,Weekend,Orientation,1,Even_Sem,False,,0,False,,,False,56.5,,True,True,1
+"January 03, 2022",2021-22,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+"January 04, 2022",2021-22,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-01-05,2021-22,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-01-06,2021-22,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-01-07,2021-22,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,66.5,,False,False,1
+"January 08, 2022",2021-22,Weekend,Orientation,2,Even_Sem,False,,0,False,,,False,56.5,,False,True,1
+2022-01-09,2021-22,Weekend,Orientation,2,Even_Sem,False,,0,False,,,False,56.5,,True,True,1
+10/01/2022,2021-22,Weekday,Orientation,2,Even_Sem,False,,0,False,,,False,66.5,,False,False,1
+"January 11, 2022",2021-22,Weekday,Regular,2,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-01-12,2021-22,Weekday,Regular,2,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+13/01/2022,2021-22,Weekday,Regular,2,Even_Sem,False,,0,True,Pongal,Regional,False,43.2,,True,True,1
+2022-01-14,2021-22,Weekday,Regular,2,Even_Sem,False,,0,True,Pongal,Regional,False,43.2,,True,True,1
+15/01/2022,2021-22,Weekend,Regular,3,Even_Sem,False,,0,True,Pongal,Regional,True,25.7,,True,False,1
+2022-01-16,2021-22,Weekend,Regular,3,Even_Sem,False,,0,False,,,False,56.5,,True,True,1
+17/01/2022,2021-22,WKDAY,Regular,3,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-01-18,2021-22,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+"January 19, 2022",2021-22,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,66.5,,False,False,1
+"January 20, 2022",2021-22,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+"January 21, 2022",2021-22,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-01-22,2021-22,Weekend,Regular,4,Even_Sem,False,,0,False,,,False,56.5,,False,True,1
+2022-01-23,2021-22,Weekend,Regular,4,Even_Sem,False,,0,False,,,False,56.5,,True,False,1
+24/01/2022,2021-22,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+25/01/2022,2021-22,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,66.5,,False,False,1
+2022-01-26,2021-22,Weekday,Regular,4,Even_Sem,False,,0,True,Republic Day,National,False,43.2,,True,True,1
+2022-01-27,2021-22,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+"January 28, 2022",2021-22,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-01-29,2021-22,Weekend,Regular,5,Even_Sem,False,,0,False,,,False,56.5,,False,True,1
+"January 30, 2022",2021-22,Weekend,Regular,5,Even_Sem,False,,0,False,,,False,56.5,,True,True,1
+2022-01-31,2021-22,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+01/02/2022,2021-22,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+"February 02, 2022",2021-22,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-02-03,2021-22,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,66.5,,False,False,1
+"February 04, 2022",2021-22,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-02-05,2021-22,Weekend,Regular,6,Even_Sem,False,,0,False,,,False,56.5,,False,False,1
+06/02/2022,2021-22,Weekend,Regular,6,Even_Sem,False,,0,False,,,False,56.5,,True,True,1
+07/02/2022,2021-22,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+"February 08, 2022",2021-22,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,66.5,,False,False,1
+2022-02-09,2021-22,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+"February 10, 2022",2021-22,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,66.5,,False,False,1
+"February 11, 2022",2021-22,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-02-12,2021-22,Weekend,Regular,7,Even_Sem,False,,0,False,,,False,56.5,,False,False,1
+2022-02-13,2021-22,Weekend,Regular,7,Even_Sem,False,,0,False,,,False,56.5,,True,True,1
+2022-02-14,2021-22,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-02-15,2021-22,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,66.5,,False,False,1
+2022-02-16,2021-22,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+"February 17, 2022",2021-22,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-02-18,2021-22,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-02-19,2021-22,Weekend,Regular,8,Even_Sem,False,,0,False,,,False,56.5,,False,False,1
+2022-02-20,2021-22,wknd,Regular,8,Even_Sem,False,,0,False,,,False,56.5,,True,True,1
+2022-02-21,2021-22,WKDAY,Regular,8,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-02-22,2021-22,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-02-23,2021-22,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,66.5,,False,False,1
+24/02/2022,2021-22,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+25/02/2022,2021-22,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,66.5,Annual Day,False,True,1
+"February 26, 2022",2021-22,Weekend,Regular,9,Even_Sem,False,,0,False,,,False,56.5,,False,True,1
+2022-02-27,2021-22,Weekend,Regular,9,Even_Sem,False,,0,False,,,False,56.5,,True,True,1
+"February 28, 2022",2021-22,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-03-01,2021-22,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+02/03/2022,2021-22,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+"March 03, 2022",2021-22,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-03-04,2021-22,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-03-05,2021-22,Weekend,Regular,10,Even_Sem,False,,0,False,,,False,56.5,,False,True,1
+2022-03-06,2021-22,wknd,Regular,10,Even_Sem,False,,0,False,,,False,56.5,,True,True,1
+2022-03-07,2021-22,Weekday,Regular,10,Even_Sem,False,,0,False,,,False,66.5,,False,False,1
+2022-03-08,2021-22,Weekday,Regular,10,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-03-09,2021-22,Week Day,Regular,10,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-03-10,2021-22,weekday,Exam,10,Even_Sem,True,Mid_Sem,5,False,,,False,52.5,,False,True,1
+"March 11, 2022",2021-22,Weekday,Exam,10,Even_Sem,True,Mid_Sem,5,False,,,False,52.5,,False,False,1
+2022-03-12,2021-22,Weekend,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,44.6,,False,True,1
+2022-03-13,2021-22,Weekend,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,44.6,,True,True,1
+2022-03-14,2021-22,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,52.5,,False,True,1
+15/03/2022,2021-22,Week Day,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,52.5,,False,False,1
+2022-03-16,2021-22,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,52.5,,False,True,1
+17/03/2022,2021-22,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,True,Holi,Religious,False,34.1,,True,True,1
+2022-03-18,2021-22,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,True,Holi,Religious,False,34.1,,True,True,1
+2022-03-19,2021-22,Weekend,Exam,12,Even_Sem,True,Mid_Sem,5,True,Holi,Religious,True,20.3,,True,False,1
+2022-03-20,2021-22,Weekend,Exam,12,Even_Sem,True,Mid_Sem,5,False,,,False,44.6,,True,True,1
+2022-03-21,2021-22,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+"March 22, 2022",2021-22,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,66.5,,False,False,1
+2022-03-23,2021-22,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,66.5,,False,False,1
+2022-03-24,2021-22,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+"March 25, 2022",2021-22,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-03-26,2021-22,Weekend,Regular,13,Even_Sem,False,,0,False,,,False,56.5,,False,True,1
+2022-03-27,2021-22,Weekend,Regular,13,Even_Sem,False,,0,False,,,False,56.5,,True,True,1
+2022-03-28,2021-22,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+"March 29, 2022",2021-22,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-03-30,2021-22,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,66.5,,False,False,1
+2022-03-31,2021-22,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,66.5,,False,True,1
+2022-04-01,2021-22,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-04-02,2021-22,Weekend,Regular,14,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2022-04-03,2021-22,Weekend,Regular,14,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+"April 04, 2022",2021-22,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-04-05,2021-22,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2022-04-06,2021-22,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+07/04/2022,2021-22,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2022-04-08,2021-22,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-04-09,2021-22,Weekend,Regular,15,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2022-04-10,2021-22,weekend,Regular,15,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+"April 11, 2022",2021-22,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-04-12,2021-22,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2022-04-13,2021-22,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"April 14, 2022",2021-22,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-04-15,2021-22,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-04-16,2021-22,Weekend,Regular,16,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+"April 17, 2022",2021-22,Weekend,Regular,16,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+2022-04-18,2021-22,Weekday,Regular,16,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"April 19, 2022",2021-22,Weekday,Regular,16,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-04-20,2021-22,Weekday,Pre_Exam,16,Even_Sem,False,,4,False,,,False,85.0,,False,False,0
+21/04/2022,2021-22,Weekday,Pre_Exam,16,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+"April 22, 2022",2021-22,Weekday,Pre_Exam,16,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+2022-04-23,2021-22,Weekend,Pre_Exam,17,Even_Sem,False,,4,False,,,False,72.2,,False,True,0
+2022-04-24,2021-22,WEEKEND,Pre_Exam,17,Even_Sem,False,,4,False,,,False,72.2,,True,True,0
+25/04/2022,2021-22,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+26/04/2022,2021-22,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,Annual Day,False,True,0
+2022-04-27,2021-22,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+2022-04-28,2021-22,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+2022-04-29,2021-22,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,False,0
+2022-04-30,2021-22,Weekend,Pre_Exam,18,Even_Sem,False,,4,False,,,False,72.2,,False,True,0
+"May 01, 2022",2021-22,Weekend,Regular,18,Even_Sem,False,,0,True,Eid,Religious,True,36.7,,True,True,0
+2022-05-02,2021-22,Weekday,Regular,18,Even_Sem,False,,0,True,Eid,Religious,False,61.7,,True,False,0
+2022-05-03,2021-22,Weekday,Regular,18,Even_Sem,False,,0,True,Eid,Religious,False,61.7,,True,True,0
+2022-05-04,2021-22,Weekday,Regular,18,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-05-05,2021-22,Weekday,Exam,18,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+06/05/2022,2021-22,Weekday,Exam,18,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2022-05-07,2021-22,Weekend,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+2022-05-08,2021-22,Weekend,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,63.7,,True,False,0
+2022-05-09,2021-22,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"May 10, 2022",2021-22,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+11/05/2022,2021-22,weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2022-05-12,2021-22,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2022-05-13,2021-22,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2022-05-14,2021-22,Weekend,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,63.7,,False,False,0
+2022-05-15,2021-22,Weekend,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,63.7,,True,False,0
+2022-05-16,2021-22,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+17/05/2022,2021-22,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+18/05/2022,2021-22,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+"May 19, 2022",2021-22,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2022-05-20,2021-22,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"May 21, 2022",2021-22,Weekend,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+2022-05-22,2021-22,weekend,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,63.7,,True,False,0
+"May 23, 2022",2021-22,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2022-05-24,2021-22,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2022-05-25,2021-22,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2022-05-26,2021-22,Weekday,Post_Exam,21,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"May 27, 2022",2021-22,Weekday,Post_Exam,21,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2022-05-28,2021-22,Weekend,Post_Exam,22,Even_Sem,False,,0,False,,,False,80.8,,False,False,0
+"May 29, 2022",2021-22,Weekend,Post_Exam,22,Even_Sem,False,,0,False,,,False,80.8,,True,False,0
+"May 30, 2022",2021-22,WKDAY,Post_Exam,22,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-05-31,2021-22,Weekday,Post_Exam,22,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-06-01,2021-22,Weekday,Vacation,22,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+02/06/2022,2021-22,Weekday,Vacation,22,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+03/06/2022,2021-22,Weekday,Vacation,22,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2022-06-04,2021-22,Weekend,Vacation,23,Summer_Break,False,,0,False,,,False,12.8,,False,True,0
+05/06/2022,2021-22,Weekend,Vacation,23,Summer_Break,False,,0,False,,,False,12.8,,True,True,0
+06/06/2022,2021-22,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+07/06/2022,2021-22,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+2022-06-08,2021-22,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2022-06-09,2021-22,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+2022-06-10,2021-22,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+11/06/2022,2021-22,Weekend,Vacation,24,Summer_Break,False,,0,False,,,False,12.8,,False,False,0
+2022-06-12,2021-22,WEEKEND,Vacation,24,Summer_Break,False,,0,False,,,False,12.8,,True,False,0
+2022-06-13,2021-22,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+14/06/2022,2021-22,Week Day,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+"June 15, 2022",2021-22,Week Day,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+2022-06-16,2021-22,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+17/06/2022,2021-22,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2022-06-18,2021-22,Weekend,Vacation,25,Summer_Break,False,,0,False,,,False,12.8,,False,True,0
+2022-06-19,2021-22,Weekend,Vacation,25,Summer_Break,False,,0,False,,,False,12.8,,True,True,0
+2022-06-20,2021-22,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2022-06-21,2021-22,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2022-06-22,2021-22,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+23/06/2022,2021-22,Week Day,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+"June 24, 2022",2021-22,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2022-06-25,2021-22,Weekend,Vacation,26,Summer_Break,False,,0,False,,,False,12.8,Sports Meet,False,False,0
+"June 26, 2022",2021-22,Weekend,Vacation,26,Summer_Break,False,,0,False,,,False,12.8,,True,True,0
+2022-06-27,2021-22,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+2022-06-28,2021-22,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2022-06-29,2021-22,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+30/06/2022,2021-22,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+2022-07-01,2022-23,Weekday,Vacation,26,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2022-07-02,2022-23,Weekend,Vacation,27,Odd_Sem,False,,0,False,,,False,12.8,,False,True,0
+2022-07-03,2022-23,Weekend,Vacation,27,Odd_Sem,False,,0,False,,,False,12.8,,True,True,0
+2022-07-04,2022-23,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+"July 05, 2022",2022-23,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+"July 06, 2022",2022-23,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+2022-07-07,2022-23,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+08/07/2022,2022-23,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2022-07-09,2022-23,weekend,Vacation,28,Odd_Sem,False,,0,False,,,False,12.8,,False,True,0
+2022-07-10,2022-23,Weekend,Vacation,28,Odd_Sem,False,,0,False,,,False,12.8,,True,False,0
+2022-07-11,2022-23,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2022-07-12,2022-23,WKDAY,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+"July 13, 2022",2022-23,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2022-07-14,2022-23,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+"July 15, 2022",2022-23,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+"July 16, 2022",2022-23,wknd,Vacation,29,Odd_Sem,False,,0,False,,,False,12.8,,False,False,0
+2022-07-17,2022-23,Weekend,Vacation,29,Odd_Sem,False,,0,False,,,False,12.8,,True,True,0
+2022-07-18,2022-23,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2022-07-19,2022-23,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2022-07-20,2022-23,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+2022-07-21,2022-23,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2022-07-22,2022-23,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2022-07-23,2022-23,Weekend,Vacation,30,Odd_Sem,False,,0,False,,,False,12.8,,False,False,0
+2022-07-24,2022-23,Weekend,Vacation,30,Odd_Sem,False,,0,False,,,False,12.8,,True,True,0
+2022-07-25,2022-23,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+2022-07-26,2022-23,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+"July 27, 2022",2022-23,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+28/07/2022,2022-23,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+"July 29, 2022",2022-23,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+"July 30, 2022",2022-23,wknd,Vacation,31,Odd_Sem,False,,0,False,,,False,12.8,,False,False,0
+31/07/2022,2022-23,Weekend,Vacation,31,Odd_Sem,False,,0,False,,,False,12.8,,True,True,0
+01/08/2022,2022-23,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"August 02, 2022",2022-23,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-08-03,2022-23,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2022-08-04,2022-23,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+05/08/2022,2022-23,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"August 06, 2022",2022-23,Weekend,Regular,32,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2022-08-07,2022-23,Weekend,Regular,32,Odd_Sem,False,,0,False,,,False,80.8,,True,False,0
+2022-08-08,2022-23,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"August 09, 2022",2022-23,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-08-10,2022-23,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-08-11,2022-23,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-08-12,2022-23,weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2022-08-13,2022-23,Weekend,Regular,33,Odd_Sem,False,,0,False,,,False,80.8,,False,False,0
+2022-08-14,2022-23,Weekend,Regular,33,Odd_Sem,False,,0,False,,,False,80.8,,True,False,0
+"August 15, 2022",2022-23,Weekday,Regular,33,Odd_Sem,False,,0,True,Independence Day,National,False,61.7,,True,True,0
+"August 16, 2022",2022-23,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-08-17,2022-23,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+18/08/2022,2022-23,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-08-19,2022-23,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+20/08/2022,2022-23,weekend,Regular,34,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+"August 21, 2022",2022-23,Weekend,Regular,34,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+"August 22, 2022",2022-23,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2022-08-23,2022-23,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2022-08-24,2022-23,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,Tech Symposium,False,False,0
+2022-08-25,2022-23,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+26/08/2022,2022-23,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-08-27,2022-23,Weekend,Regular,35,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+"August 28, 2022",2022-23,Weekend,Regular,35,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+2022-08-29,2022-23,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+30/08/2022,2022-23,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-08-31,2022-23,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+01/09/2022,2022-23,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-09-02,2022-23,WKDAY,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-09-03,2022-23,Weekend,Regular,36,Odd_Sem,False,,0,False,,,False,80.8,,False,False,0
+"September 04, 2022",2022-23,wknd,Regular,36,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+05/09/2022,2022-23,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-09-06,2022-23,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-09-07,2022-23,weekday,Regular,36,Odd_Sem,False,,0,True,Onam,Regional,False,61.7,,True,False,0
+2022-09-08,2022-23,Weekday,Regular,36,Odd_Sem,False,,0,True,Onam,Regional,False,61.7,,True,False,0
+2022-09-09,2022-23,Weekday,Regular,36,Odd_Sem,False,,0,True,Onam,Regional,False,61.7,,True,True,0
+2022-09-10,2022-23,wknd,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,True,44.6,,False,True,0
+2022-09-11,2022-23,Weekend,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,63.7,,True,False,0
+2022-09-12,2022-23,Week Day,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,False,0
+13/09/2022,2022-23,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,False,0
+"September 14, 2022",2022-23,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,False,0
+15/09/2022,2022-23,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,False,0
+2022-09-16,2022-23,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+17/09/2022,2022-23,Weekend,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,63.7,,False,False,0
+2022-09-18,2022-23,Weekend,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,63.7,,True,False,0
+2022-09-19,2022-23,Weekday,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2022-09-20,2022-23,Weekday,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2022-09-21,2022-23,Weekday,Regular,38,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-09-22,2022-23,weekday,Regular,38,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+23/09/2022,2022-23,Weekday,Regular,38,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-09-24,2022-23,WEEKEND,Regular,39,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2022-09-25,2022-23,Weekend,Regular,39,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+2022-09-26,2022-23,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-09-27,2022-23,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"September 28, 2022",2022-23,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-09-29,2022-23,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2022-09-30,2022-23,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"October 01, 2022",2022-23,Weekend,Regular,40,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2022-10-02,2022-23,Weekend,Regular,40,Odd_Sem,False,,0,True,Gandhi Jayanti,National,True,36.7,,True,True,0
+03/10/2022,2022-23,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-10-04,2022-23,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-10-05,2022-23,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-10-06,2022-23,WKDAY,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-10-07,2022-23,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-10-08,2022-23,Weekend,Regular,41,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+09/10/2022,2022-23,Weekend,Regular,41,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+2022-10-10,2022-23,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2022-10-11,2022-23,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+12/10/2022,2022-23,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"October 13, 2022",2022-23,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-10-14,2022-23,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"October 15, 2022",2022-23,Weekend,Regular,42,Odd_Sem,False,,0,False,,,False,80.8,,False,False,0
+"October 16, 2022",2022-23,Weekend,Regular,42,Odd_Sem,False,,0,False,,,False,80.8,,True,False,0
+"October 17, 2022",2022-23,Weekday,Regular,42,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"October 18, 2022",2022-23,Weekday,Regular,42,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"October 19, 2022",2022-23,Weekday,Regular,42,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+20/10/2022,2022-23,Weekday,Pre_Exam,42,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+21/10/2022,2022-23,Weekday,Pre_Exam,42,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+2022-10-22,2022-23,Weekend,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,72.2,,False,True,0
+2022-10-23,2022-23,Weekend,Pre_Exam,43,Odd_Sem,False,,4,True,Diwali,Religious,True,32.9,Annual Day,True,True,0
+2022-10-24,2022-23,Weekday,Pre_Exam,43,Odd_Sem,False,,4,True,Diwali,Religious,False,55.2,,True,False,0
+2022-10-25,2022-23,Weekday,Pre_Exam,43,Odd_Sem,False,,4,True,Diwali,Religious,False,55.2,,True,False,0
+26/10/2022,2022-23,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+2022-10-27,2022-23,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+28/10/2022,2022-23,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+"October 29, 2022",2022-23,Weekend,Pre_Exam,44,Odd_Sem,False,,4,False,,,False,72.2,,False,True,0
+30/10/2022,2022-23,Weekend,Pre_Exam,44,Odd_Sem,False,,4,False,,,False,72.2,,True,False,0
+31/10/2022,2022-23,Weekday,Pre_Exam,44,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+2022-11-01,2022-23,Weekday,Regular,44,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-11-02,2022-23,Weekday,Regular,44,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+03/11/2022,2022-23,Weekday,Regular,44,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2022-11-04,2022-23,Weekday,Regular,44,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2022-11-05,2022-23,Weekend,Regular,45,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2022-11-06,2022-23,Weekend,Regular,45,Odd_Sem,False,,0,False,,,False,80.8,,True,False,0
+2022-11-07,2022-23,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+08/11/2022,2022-23,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"November 09, 2022",2022-23,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2022-11-10,2022-23,Weekday,Exam,45,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2022-11-11,2022-23,Week Day,Exam,45,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2022-11-12,2022-23,WEEKEND,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,False,False,0
+13/11/2022,2022-23,Weekend,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,True,True,0
+2022-11-14,2022-23,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+"November 15, 2022",2022-23,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2022-11-16,2022-23,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2022-11-17,2022-23,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2022-11-18,2022-23,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+"November 19, 2022",2022-23,Weekend,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+2022-11-20,2022-23,Weekend,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,True,True,0
+2022-11-21,2022-23,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2022-11-22,2022-23,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2022-11-23,2022-23,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2022-11-24,2022-23,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2022-11-25,2022-23,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2022-11-26,2022-23,Weekend,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,False,False,0
+2022-11-27,2022-23,Weekend,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,True,True,0
+2022-11-28,2022-23,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"November 29, 2022",2022-23,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2022-11-30,2022-23,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+01/12/2022,2022-23,Weekday,Post_Exam,48,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2022-12-02,2022-23,weekday,Post_Exam,48,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+03/12/2022,2022-23,Weekend,Post_Exam,49,Summer_Break,False,,0,False,,,False,80.8,,False,True,0
+2022-12-04,2022-23,Weekend,Post_Exam,49,Summer_Break,False,,0,False,,,False,80.8,,True,True,0
+"December 05, 2022",2022-23,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,False,0
+"December 06, 2022",2022-23,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2022-12-07,2022-23,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2022-12-08,2022-23,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+"December 09, 2022",2022-23,weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2022-12-10,2022-23,Weekend,Post_Exam,50,Summer_Break,False,,0,False,,,False,80.8,,False,True,0
+"December 11, 2022",2022-23,Weekend,Post_Exam,50,Summer_Break,False,,0,False,,,False,80.8,,True,True,0
+2022-12-12,2022-23,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2022-12-13,2022-23,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+"December 14, 2022",2022-23,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,False,0
+"December 15, 2022",2022-23,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+"December 16, 2022",2022-23,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2022-12-17,2022-23,wknd,Post_Exam,51,Summer_Break,False,,0,False,,,False,80.8,,False,True,0
+18/12/2022,2022-23,Weekend,Post_Exam,51,Summer_Break,False,,0,False,,,False,80.8,,True,True,0
+2022-12-19,2022-23,Weekday,Post_Exam,51,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+20/12/2022,2022-23,Weekday,Vacation,51,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+21/12/2022,2022-23,Weekday,Vacation,51,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2022-12-22,2022-23,Weekday,Vacation,51,Summer_Break,False,,0,False,,,False,15.0,Cultural Fest,False,False,0
+2022-12-23,2022-23,Weekday,Vacation,51,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2022-12-24,2022-23,Weekend,Vacation,52,Summer_Break,False,,0,False,,,False,12.8,,False,False,0
+"December 25, 2022",2022-23,Weekend,Vacation,52,Summer_Break,False,,0,True,Christmas,Religious,True,5.8,,True,True,0
+26/12/2022,2022-23,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+27/12/2022,2022-23,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2022-12-28,2022-23,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+"December 29, 2022",2022-23,weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+30/12/2022,2022-23,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+31/12/2022,2022-23,Weekend,Vacation,53,Summer_Break,False,,0,False,,,False,12.8,,False,True,0
+01/01/2023,2022-23,Weekend,Orientation,1,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+02/01/2023,2022-23,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-01-03,2022-23,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-01-04,2022-23,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+05/01/2023,2022-23,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+06/01/2023,2022-23,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-01-07,2022-23,WEEKEND,Orientation,1,Even_Sem,False,,0,False,,,False,80.8,,False,False,0
+08/01/2023,2022-23,Weekend,Orientation,2,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+09/01/2023,2022-23,Weekday,Orientation,2,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-01-10,2022-23,Weekday,Orientation,2,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-01-11,2022-23,Weekday,Regular,2,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-01-12,2022-23,Weekday,Regular,2,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-01-13,2022-23,Weekday,Regular,2,Even_Sem,False,,0,True,Pongal,Regional,False,61.7,,True,True,0
+14/01/2023,2022-23,Weekend,Regular,2,Even_Sem,False,,0,True,Pongal,Regional,True,36.7,,True,True,0
+2023-01-15,2022-23,WEEKEND,Regular,3,Even_Sem,False,,0,True,Pongal,Regional,True,36.7,,True,True,0
+2023-01-16,2022-23,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-01-17,2022-23,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+18/01/2023,2022-23,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-01-19,2022-23,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"January 20, 2023",2022-23,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-01-21,2022-23,Weekend,Regular,3,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2023-01-22,2022-23,Weekend,Regular,4,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+2023-01-23,2022-23,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-01-24,2022-23,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+25/01/2023,2022-23,weekday,Regular,4,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+26/01/2023,2022-23,Weekday,Regular,4,Even_Sem,False,,0,True,Republic Day,National,False,61.7,,True,False,0
+2023-01-27,2022-23,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-01-28,2022-23,Weekend,Regular,4,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+"January 29, 2023",2022-23,Weekend,Regular,5,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+"January 30, 2023",2022-23,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"January 31, 2023",2022-23,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-02-01,2022-23,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-02-02,2022-23,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-02-03,2022-23,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-02-04,2022-23,Weekend,Regular,5,Even_Sem,False,,0,False,,,False,80.8,,False,False,0
+05/02/2023,2022-23,Weekend,Regular,6,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+2023-02-06,2022-23,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-02-07,2022-23,WKDAY,Regular,6,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+08/02/2023,2022-23,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-02-09,2022-23,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-02-10,2022-23,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-02-11,2022-23,Weekend,Regular,6,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2023-02-12,2022-23,wknd,Regular,7,Even_Sem,False,,0,False,,,False,80.8,,True,False,0
+2023-02-13,2022-23,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+14/02/2023,2022-23,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+15/02/2023,2022-23,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+"February 16, 2023",2022-23,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-02-17,2022-23,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-02-18,2022-23,Weekend,Regular,7,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+"February 19, 2023",2022-23,Weekend,Regular,8,Even_Sem,False,,0,False,,,False,80.8,,True,False,0
+2023-02-20,2022-23,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,95.0,Cultural Fest,False,True,0
+2023-02-21,2022-23,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-02-22,2022-23,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-02-23,2022-23,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-02-24,2022-23,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-02-25,2022-23,Weekend,Regular,8,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+"February 26, 2023",2022-23,Weekend,Regular,9,Even_Sem,False,,0,False,,,False,80.8,,True,False,0
+2023-02-27,2022-23,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+28/02/2023,2022-23,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-03-01,2022-23,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-03-02,2022-23,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-03-03,2022-23,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-03-04,2022-23,Weekend,Regular,9,Even_Sem,False,,0,False,,,False,80.8,,False,False,0
+2023-03-05,2022-23,Weekend,Regular,10,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+06/03/2023,2022-23,Weekday,Regular,10,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"March 07, 2023",2022-23,Weekday,Regular,10,Even_Sem,False,,0,True,Holi,Religious,False,61.7,,True,True,0
+2023-03-08,2022-23,Weekday,Regular,10,Even_Sem,False,,0,True,Holi,Religious,False,61.7,,True,True,0
+2023-03-09,2022-23,Weekday,Regular,10,Even_Sem,False,,0,True,Holi,Religious,False,61.7,,True,False,0
+2023-03-10,2022-23,Weekday,Exam,10,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+"March 11, 2023",2022-23,Weekend,Exam,10,Even_Sem,True,Mid_Sem,5,False,,,False,63.7,,False,True,0
+2023-03-12,2022-23,Weekend,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,63.7,,True,True,0
+2023-03-13,2022-23,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2023-03-14,2022-23,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+"March 15, 2023",2022-23,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2023-03-16,2022-23,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+17/03/2023,2022-23,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,False,0
+2023-03-18,2022-23,Weekend,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,63.7,,False,True,0
+19/03/2023,2022-23,weekend,Exam,12,Even_Sem,True,Mid_Sem,5,False,,,False,63.7,,True,True,0
+20/03/2023,2022-23,Weekday,Exam,12,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,False,0
+21/03/2023,2022-23,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-03-22,2022-23,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"March 23, 2023",2022-23,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+24/03/2023,2022-23,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-03-25,2022-23,Weekend,Regular,12,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2023-03-26,2022-23,Weekend,Regular,13,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+2023-03-27,2022-23,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+28/03/2023,2022-23,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-03-29,2022-23,weekday,Regular,13,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-03-30,2022-23,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"March 31, 2023",2022-23,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+"April 01, 2023",2022-23,Weekend,Regular,13,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+02/04/2023,2022-23,Weekend,Regular,14,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+03/04/2023,2022-23,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"April 04, 2023",2022-23,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+05/04/2023,2022-23,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-04-06,2022-23,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-04-07,2022-23,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"April 08, 2023",2022-23,Weekend,Regular,14,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2023-04-09,2022-23,Weekend,Regular,15,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+2023-04-10,2022-23,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-04-11,2022-23,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-04-12,2022-23,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+"April 13, 2023",2022-23,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+"April 14, 2023",2022-23,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"April 15, 2023",2022-23,Weekend,Regular,15,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+"April 16, 2023",2022-23,Weekend,Regular,16,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+"April 17, 2023",2022-23,Weekday,Regular,16,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-04-18,2022-23,Weekday,Regular,16,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-04-19,2022-23,weekday,Regular,16,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+20/04/2023,2022-23,Weekday,Pre_Exam,16,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+"April 21, 2023",2022-23,Weekday,Pre_Exam,16,Even_Sem,False,,4,True,Eid,Religious,False,55.2,Tech Symposium,True,True,0
+"April 22, 2023",2022-23,Weekend,Pre_Exam,16,Even_Sem,False,,4,True,Eid,Religious,True,32.9,,True,True,0
+"April 23, 2023",2022-23,Weekend,Pre_Exam,17,Even_Sem,False,,4,True,Eid,Religious,True,32.9,,True,True,0
+2023-04-24,2022-23,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,False,0
+25/04/2023,2022-23,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+2023-04-26,2022-23,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+2023-04-27,2022-23,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+2023-04-28,2022-23,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+2023-04-29,2022-23,Weekend,Pre_Exam,17,Even_Sem,False,,4,False,,,False,72.2,,False,True,0
+2023-04-30,2022-23,Weekend,Pre_Exam,18,Even_Sem,False,,4,False,,,False,72.2,,True,False,0
+2023-05-01,2022-23,Weekday,Regular,18,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-05-02,2022-23,Weekday,Regular,18,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-05-03,2022-23,Weekday,Regular,18,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-05-04,2022-23,Weekday,Regular,18,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+05/05/2023,2022-23,Weekday,Exam,18,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2023-05-06,2022-23,WEEKEND,Exam,18,Even_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+2023-05-07,2022-23,Weekend,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,63.7,,True,False,0
+"May 08, 2023",2022-23,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+09/05/2023,2022-23,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2023-05-10,2022-23,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2023-05-11,2022-23,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2023-05-12,2022-23,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2023-05-13,2022-23,Weekend,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+"May 14, 2023",2022-23,Weekend,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,63.7,,True,True,0
+15/05/2023,2022-23,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+16/05/2023,2022-23,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2023-05-17,2022-23,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"May 18, 2023",2022-23,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2023-05-19,2022-23,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2023-05-20,2022-23,Weekend,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+21/05/2023,2022-23,Weekend,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,63.7,,True,False,0
+2023-05-22,2022-23,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2023-05-23,2022-23,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2023-05-24,2022-23,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2023-05-25,2022-23,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2023-05-26,2022-23,Weekday,Post_Exam,21,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-05-27,2022-23,Weekend,Post_Exam,21,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+"May 28, 2023",2022-23,Weekend,Post_Exam,22,Even_Sem,False,,0,False,,,False,80.8,,True,False,0
+2023-05-29,2022-23,Weekday,Post_Exam,22,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-05-30,2022-23,Weekday,Post_Exam,22,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"May 31, 2023",2022-23,Weekday,Post_Exam,22,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-06-01,2022-23,Week Day,Vacation,22,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2023-06-02,2022-23,Weekday,Vacation,22,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2023-06-03,2022-23,Weekend,Vacation,22,Summer_Break,False,,0,False,,,False,12.8,,False,False,0
+2023-06-04,2022-23,Weekend,Vacation,23,Summer_Break,False,,0,False,,,False,12.8,,True,True,0
+05/06/2023,2022-23,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+"June 06, 2023",2022-23,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+2023-06-07,2022-23,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+2023-06-08,2022-23,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+"June 09, 2023",2022-23,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+"June 10, 2023",2022-23,Weekend,Vacation,23,Summer_Break,False,,0,False,,,False,12.8,,False,True,0
+11/06/2023,2022-23,Weekend,Vacation,24,Summer_Break,False,,0,False,,,False,12.8,,True,True,0
+"June 12, 2023",2022-23,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+13/06/2023,2022-23,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2023-06-14,2022-23,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+15/06/2023,2022-23,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+16/06/2023,2022-23,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2023-06-17,2022-23,Weekend,Vacation,24,Summer_Break,False,,0,False,,,False,12.8,,False,True,0
+2023-06-18,2022-23,wknd,Vacation,25,Summer_Break,False,,0,False,,,False,12.8,,True,False,0
+2023-06-19,2022-23,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+20/06/2023,2022-23,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,Sports Meet,False,False,0
+2023-06-21,2022-23,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+22/06/2023,2022-23,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2023-06-23,2022-23,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2023-06-24,2022-23,Weekend,Vacation,25,Summer_Break,False,,0,False,,,False,12.8,,False,True,0
+25/06/2023,2022-23,Weekend,Vacation,26,Summer_Break,False,,0,False,,,False,12.8,,True,True,0
+2023-06-26,2022-23,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+"June 27, 2023",2022-23,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+28/06/2023,2022-23,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2023-06-29,2022-23,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2023-06-30,2022-23,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+01/07/2023,2023-24,Weekend,Vacation,26,Odd_Sem,False,,0,False,,,False,12.8,,False,True,0
+2023-07-02,2023-24,Weekend,Vacation,27,Odd_Sem,False,,0,False,,,False,12.8,,True,True,0
+"July 03, 2023",2023-24,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2023-07-04,2023-24,Week Day,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+05/07/2023,2023-24,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+06/07/2023,2023-24,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+07/07/2023,2023-24,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+2023-07-08,2023-24,Weekend,Vacation,27,Odd_Sem,False,,0,False,,,False,12.8,,False,True,0
+2023-07-09,2023-24,Weekend,Vacation,28,Odd_Sem,False,,0,False,,,False,12.8,,True,False,0
+2023-07-10,2023-24,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+11/07/2023,2023-24,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2023-07-12,2023-24,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+2023-07-13,2023-24,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+14/07/2023,2023-24,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+"July 15, 2023",2023-24,Weekend,Vacation,28,Odd_Sem,False,,0,False,,,False,12.8,,False,True,0
+"July 16, 2023",2023-24,Weekend,Vacation,29,Odd_Sem,False,,0,False,,,False,12.8,,True,False,0
+2023-07-17,2023-24,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+2023-07-18,2023-24,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+19/07/2023,2023-24,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+20/07/2023,2023-24,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+2023-07-21,2023-24,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+"July 22, 2023",2023-24,Weekend,Vacation,29,Odd_Sem,False,,0,False,,,False,12.8,,False,False,0
+2023-07-23,2023-24,Weekend,Vacation,30,Odd_Sem,False,,0,False,,,False,12.8,,True,True,0
+24/07/2023,2023-24,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2023-07-25,2023-24,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+"July 26, 2023",2023-24,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2023-07-27,2023-24,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+2023-07-28,2023-24,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2023-07-29,2023-24,WEEKEND,Vacation,30,Odd_Sem,False,,0,False,,,False,12.8,,False,True,0
+"July 30, 2023",2023-24,Weekend,Vacation,31,Odd_Sem,False,,0,False,,,False,12.8,,True,True,0
+31/07/2023,2023-24,Weekday,Vacation,31,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2023-08-01,2023-24,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-08-02,2023-24,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"August 03, 2023",2023-24,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-08-04,2023-24,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-08-05,2023-24,Weekend,Regular,31,Odd_Sem,False,,0,False,,,False,80.8,,False,False,0
+06/08/2023,2023-24,Weekend,Regular,32,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+2023-08-07,2023-24,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+08/08/2023,2023-24,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-08-09,2023-24,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-08-10,2023-24,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-08-11,2023-24,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-08-12,2023-24,Weekend,Regular,32,Odd_Sem,False,,0,False,,,False,80.8,,False,False,0
+2023-08-13,2023-24,Weekend,Regular,33,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+"August 14, 2023",2023-24,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-08-15,2023-24,Weekday,Regular,33,Odd_Sem,False,,0,True,Independence Day,National,False,61.7,,True,False,0
+16/08/2023,2023-24,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-08-17,2023-24,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-08-18,2023-24,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-08-19,2023-24,Weekend,Regular,33,Odd_Sem,False,,0,False,,,False,80.8,Annual Day,False,True,0
+2023-08-20,2023-24,Weekend,Regular,34,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+2023-08-21,2023-24,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-08-22,2023-24,Week Day,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-08-23,2023-24,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-08-24,2023-24,WKDAY,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+25/08/2023,2023-24,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"August 26, 2023",2023-24,Weekend,Regular,34,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+"August 27, 2023",2023-24,Weekend,Regular,35,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+2023-08-28,2023-24,Weekday,Regular,35,Odd_Sem,False,,0,True,Onam,Regional,False,61.7,,True,True,0
+2023-08-29,2023-24,Weekday,Regular,35,Odd_Sem,False,,0,True,Onam,Regional,False,61.7,,True,True,0
+30/08/2023,2023-24,Weekday,Regular,35,Odd_Sem,False,,0,True,Onam,Regional,False,61.7,,True,False,0
+2023-08-31,2023-24,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-09-01,2023-24,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-09-02,2023-24,Weekend,Regular,35,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2023-09-03,2023-24,Weekend,Regular,36,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+04/09/2023,2023-24,weekday,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"September 05, 2023",2023-24,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-09-06,2023-24,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+07/09/2023,2023-24,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-09-08,2023-24,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-09-09,2023-24,Weekend,Regular,36,Odd_Sem,False,,0,False,,,False,80.8,,False,False,0
+2023-09-10,2023-24,Weekend,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,63.7,,True,True,0
+2023-09-11,2023-24,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2023-09-12,2023-24,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+"September 13, 2023",2023-24,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2023-09-14,2023-24,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+"September 15, 2023",2023-24,Week Day,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2023-09-16,2023-24,Weekend,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,63.7,,False,True,0
+"September 17, 2023",2023-24,Weekend,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,63.7,,True,False,0
+"September 18, 2023",2023-24,Weekday,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2023-09-19,2023-24,Weekday,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2023-09-20,2023-24,Weekday,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2023-09-21,2023-24,Weekday,Regular,38,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+22/09/2023,2023-24,Weekday,Regular,38,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-09-23,2023-24,Weekend,Regular,38,Odd_Sem,False,,0,False,,,False,80.8,,False,False,0
+2023-09-24,2023-24,Weekend,Regular,39,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+25/09/2023,2023-24,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-09-26,2023-24,WKDAY,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-09-27,2023-24,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-09-28,2023-24,weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-09-29,2023-24,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+30/09/2023,2023-24,Weekend,Regular,39,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+01/10/2023,2023-24,Weekend,Regular,40,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+2023-10-02,2023-24,Weekday,Regular,40,Odd_Sem,False,,0,True,Gandhi Jayanti,National,False,61.7,,True,True,0
+2023-10-03,2023-24,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-10-04,2023-24,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-10-05,2023-24,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"October 06, 2023",2023-24,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+07/10/2023,2023-24,Weekend,Regular,40,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2023-10-08,2023-24,Weekend,Regular,41,Odd_Sem,False,,0,False,,,False,80.8,,True,False,0
+2023-10-09,2023-24,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-10-10,2023-24,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"October 11, 2023",2023-24,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+12/10/2023,2023-24,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-10-13,2023-24,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"October 14, 2023",2023-24,Weekend,Regular,41,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2023-10-15,2023-24,Weekend,Regular,42,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+2023-10-16,2023-24,Weekday,Regular,42,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-10-17,2023-24,Weekday,Regular,42,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-10-18,2023-24,Weekday,Regular,42,Odd_Sem,False,,0,False,,,False,95.0,Sports Meet,False,False,0
+2023-10-19,2023-24,Weekday,Regular,42,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+20/10/2023,2023-24,Weekday,Pre_Exam,42,Odd_Sem,False,,4,False,,,False,85.0,,False,False,0
+21/10/2023,2023-24,Weekend,Pre_Exam,42,Odd_Sem,False,,4,False,,,False,72.2,,False,True,0
+2023-10-22,2023-24,Weekend,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,72.2,,True,True,0
+2023-10-23,2023-24,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+"October 24, 2023",2023-24,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+25/10/2023,2023-24,weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,False,0
+2023-10-26,2023-24,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+2023-10-27,2023-24,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+2023-10-28,2023-24,Weekend,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,72.2,,False,True,0
+2023-10-29,2023-24,Weekend,Pre_Exam,44,Odd_Sem,False,,4,False,,,False,72.2,,True,False,0
+30/10/2023,2023-24,Weekday,Pre_Exam,44,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+2023-10-31,2023-24,Weekday,Pre_Exam,44,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+2023-11-01,2023-24,Weekday,Regular,44,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-11-02,2023-24,Weekday,Regular,44,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+"November 03, 2023",2023-24,Weekday,Regular,44,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"November 04, 2023",2023-24,Weekend,Regular,44,Odd_Sem,False,,0,False,,,False,80.8,,False,False,0
+2023-11-05,2023-24,Weekend,Regular,45,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+06/11/2023,2023-24,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2023-11-07,2023-24,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"November 08, 2023",2023-24,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2023-11-09,2023-24,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+10/11/2023,2023-24,Week Day,Exam,45,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2023-11-11,2023-24,Weekend,Exam,45,Odd_Sem,True,End_Sem,8,True,Diwali,Religious,False,41.4,,True,False,0
+"November 12, 2023",2023-24,Weekend,Exam,46,Odd_Sem,True,End_Sem,8,True,Diwali,Religious,True,29.0,,True,False,0
+2023-11-13,2023-24,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,True,Diwali,Religious,False,48.8,,True,True,0
+14/11/2023,2023-24,weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+15/11/2023,2023-24,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2023-11-16,2023-24,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2023-11-17,2023-24,WKDAY,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+18/11/2023,2023-24,Weekend,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+2023-11-19,2023-24,Weekend,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,True,False,0
+"November 20, 2023",2023-24,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+"November 21, 2023",2023-24,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2023-11-22,2023-24,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"November 23, 2023",2023-24,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2023-11-24,2023-24,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+25/11/2023,2023-24,Weekend,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+"November 26, 2023",2023-24,Weekend,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,True,True,0
+2023-11-27,2023-24,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2023-11-28,2023-24,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+29/11/2023,2023-24,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2023-11-30,2023-24,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2023-12-01,2023-24,Weekday,Post_Exam,48,Summer_Break,False,,0,False,,,False,95.0,,False,False,0
+2023-12-02,2023-24,Weekend,Post_Exam,48,Summer_Break,False,,0,False,,,False,80.8,,False,True,0
+2023-12-03,2023-24,Weekend,Post_Exam,49,Summer_Break,False,,0,False,,,False,80.8,,True,True,0
+"December 04, 2023",2023-24,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,False,0
+05/12/2023,2023-24,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+"December 06, 2023",2023-24,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2023-12-07,2023-24,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,False,0
+2023-12-08,2023-24,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,False,0
+"December 09, 2023",2023-24,Weekend,Post_Exam,49,Summer_Break,False,,0,False,,,False,80.8,,False,True,0
+2023-12-10,2023-24,Weekend,Post_Exam,50,Summer_Break,False,,0,False,,,False,80.8,,True,True,0
+"December 11, 2023",2023-24,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2023-12-12,2023-24,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+"December 13, 2023",2023-24,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,False,0
+2023-12-14,2023-24,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2023-12-15,2023-24,Week Day,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+16/12/2023,2023-24,wknd,Post_Exam,50,Summer_Break,False,,0,False,,,False,80.8,,False,True,0
+17/12/2023,2023-24,Weekend,Post_Exam,51,Summer_Break,False,,0,False,,,False,80.8,Cultural Fest,True,True,0
+"December 18, 2023",2023-24,Weekday,Post_Exam,51,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+"December 19, 2023",2023-24,Weekday,Post_Exam,51,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2023-12-20,2023-24,Weekday,Vacation,51,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2023-12-21,2023-24,weekday,Vacation,51,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2023-12-22,2023-24,WKDAY,Vacation,51,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+"December 23, 2023",2023-24,Weekend,Vacation,51,Summer_Break,False,,0,False,,,False,12.8,,False,True,0
+"December 24, 2023",2023-24,Weekend,Vacation,52,Summer_Break,False,,0,False,,,False,12.8,,True,True,0
+25/12/2023,2023-24,Weekday,Vacation,52,Summer_Break,False,,0,True,Christmas,Religious,False,9.8,,True,True,0
+2023-12-26,2023-24,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2023-12-27,2023-24,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2023-12-28,2023-24,weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+"December 29, 2023",2023-24,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+30/12/2023,2023-24,Weekend,Vacation,52,Summer_Break,False,,0,False,,,False,12.8,,False,False,0
+31/12/2023,2023-24,Weekend,Vacation,53,Summer_Break,False,,0,False,,,False,12.8,,True,False,0
+"January 01, 2024",2023-24,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-01-02,2023-24,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-01-03,2023-24,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"January 04, 2024",2023-24,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-01-05,2023-24,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-01-06,2023-24,weekend,Orientation,1,Even_Sem,False,,0,False,,,False,80.8,,False,False,0
+2024-01-07,2023-24,Weekend,Orientation,1,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+"January 08, 2024",2023-24,Weekday,Orientation,2,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+"January 09, 2024",2023-24,Weekday,Orientation,2,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"January 10, 2024",2023-24,Weekday,Orientation,2,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"January 11, 2024",2023-24,Weekday,Regular,2,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+"January 12, 2024",2023-24,Weekday,Regular,2,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-01-13,2023-24,Weekend,Regular,2,Even_Sem,False,,0,False,,,False,80.8,,False,False,0
+2024-01-14,2023-24,Weekend,Regular,2,Even_Sem,False,,0,True,Pongal,Regional,True,36.7,,True,False,0
+2024-01-15,2023-24,Weekday,Regular,3,Even_Sem,False,,0,True,Pongal,Regional,False,61.7,,True,False,0
+2024-01-16,2023-24,Weekday,Regular,3,Even_Sem,False,,0,True,Pongal,Regional,False,61.7,,True,False,0
+2024-01-17,2023-24,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-01-18,2023-24,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-01-19,2023-24,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-01-20,2023-24,Weekend,Regular,3,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2024-01-21,2023-24,Weekend,Regular,3,Even_Sem,False,,0,False,,,False,80.8,,True,False,0
+"January 22, 2024",2023-24,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-01-23,2023-24,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-01-24,2023-24,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-01-25,2023-24,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-01-26,2023-24,weekday,Regular,4,Even_Sem,False,,0,True,Republic Day,National,False,61.7,,True,False,0
+"January 27, 2024",2023-24,wknd,Regular,4,Even_Sem,False,,0,False,,,True,56.5,,False,True,0
+2024-01-28,2023-24,Weekend,Regular,4,Even_Sem,False,,0,False,,,False,80.8,,True,False,0
+"January 29, 2024",2023-24,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-01-30,2023-24,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"January 31, 2024",2023-24,WKDAY,Regular,5,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"February 01, 2024",2023-24,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-02-02,2023-24,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-02-03,2023-24,Weekend,Regular,5,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2024-02-04,2023-24,Weekend,Regular,5,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+05/02/2024,2023-24,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-02-06,2023-24,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+07/02/2024,2023-24,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+08/02/2024,2023-24,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-02-09,2023-24,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-02-10,2023-24,Weekend,Regular,6,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+11/02/2024,2023-24,Weekend,Regular,6,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+12/02/2024,2023-24,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-02-13,2023-24,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-02-14,2023-24,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-02-15,2023-24,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,95.0,Annual Day,False,True,0
+2024-02-16,2023-24,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-02-17,2023-24,Weekend,Regular,7,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2024-02-18,2023-24,Weekend,Regular,7,Even_Sem,False,,0,False,,,False,80.8,,True,False,0
+2024-02-19,2023-24,WKDAY,Regular,8,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-02-20,2023-24,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-02-21,2023-24,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-02-22,2023-24,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-02-23,2023-24,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-02-24,2023-24,Weekend,Regular,8,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2024-02-25,2023-24,Weekend,Regular,8,Even_Sem,False,,0,False,,,False,80.8,,True,False,0
+2024-02-26,2023-24,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-02-27,2023-24,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+28/02/2024,2023-24,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-02-29,2023-24,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"March 01, 2024",2023-24,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+02/03/2024,2023-24,Weekend,Regular,9,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2024-03-03,2023-24,Weekend,Regular,9,Even_Sem,False,,0,False,,,False,80.8,,True,False,0
+2024-03-04,2023-24,Weekday,Regular,10,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-03-05,2023-24,Weekday,Regular,10,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+06/03/2024,2023-24,Weekday,Regular,10,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-03-07,2023-24,Weekday,Regular,10,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"March 08, 2024",2023-24,Weekday,Regular,10,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-03-09,2023-24,Weekend,Regular,10,Even_Sem,False,,0,False,,,False,80.8,,False,False,0
+2024-03-10,2023-24,Weekend,Exam,10,Even_Sem,True,Mid_Sem,5,False,,,False,63.7,,True,True,0
+2024-03-11,2023-24,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+12/03/2024,2023-24,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2024-03-13,2023-24,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2024-03-14,2023-24,Week Day,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2024-03-15,2023-24,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2024-03-16,2023-24,wknd,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,63.7,,False,False,0
+2024-03-17,2023-24,Weekend,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,63.7,,True,True,0
+18/03/2024,2023-24,Weekday,Exam,12,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,False,0
+2024-03-19,2023-24,Weekday,Exam,12,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2024-03-20,2023-24,Weekday,Exam,12,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+"March 21, 2024",2023-24,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"March 22, 2024",2023-24,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-03-23,2023-24,Weekend,Regular,12,Even_Sem,False,,0,False,,,False,80.8,,False,False,0
+2024-03-24,2023-24,Weekend,Regular,12,Even_Sem,False,,0,True,Holi,Religious,True,36.7,,True,False,0
+2024-03-25,2023-24,Weekday,Regular,13,Even_Sem,False,,0,True,Holi,Religious,False,61.7,,True,True,0
+2024-03-26,2023-24,Weekday,Regular,13,Even_Sem,False,,0,True,Holi,Religious,False,61.7,,True,True,0
+2024-03-27,2023-24,WKDAY,Regular,13,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-03-28,2023-24,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-03-29,2023-24,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+30/03/2024,2023-24,Weekend,Regular,13,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+"March 31, 2024",2023-24,Weekend,Regular,13,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+2024-04-01,2023-24,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-04-02,2023-24,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+03/04/2024,2023-24,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+04/04/2024,2023-24,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"April 05, 2024",2023-24,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-04-06,2023-24,Weekend,Regular,14,Even_Sem,False,,0,False,,,False,80.8,,False,False,0
+2024-04-07,2023-24,Weekend,Regular,14,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+08/04/2024,2023-24,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+09/04/2024,2023-24,Weekday,Regular,15,Even_Sem,False,,0,True,Eid,Religious,False,61.7,,True,False,0
+2024-04-10,2023-24,Weekday,Regular,15,Even_Sem,False,,0,True,Eid,Religious,False,61.7,,True,True,0
+2024-04-11,2023-24,Weekday,Regular,15,Even_Sem,False,,0,True,Eid,Religious,False,61.7,,True,True,0
+2024-04-12,2023-24,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-04-13,2023-24,Weekend,Regular,15,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+14/04/2024,2023-24,Weekend,Regular,15,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+2024-04-15,2023-24,Weekday,Regular,16,Even_Sem,False,,0,False,,,False,95.0,Sports Meet,False,True,0
+2024-04-16,2023-24,Weekday,Regular,16,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+17/04/2024,2023-24,Weekday,Regular,16,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-04-18,2023-24,Weekday,Regular,16,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-04-19,2023-24,Weekday,Regular,16,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-04-20,2023-24,Weekend,Pre_Exam,16,Even_Sem,False,,4,False,,,False,72.2,,False,True,0
+2024-04-21,2023-24,Weekend,Pre_Exam,16,Even_Sem,False,,4,False,,,False,72.2,,True,True,0
+"April 22, 2024",2023-24,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+2024-04-23,2023-24,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+2024-04-24,2023-24,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+2024-04-25,2023-24,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+2024-04-26,2023-24,weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,False,0
+"April 27, 2024",2023-24,Weekend,Pre_Exam,17,Even_Sem,False,,4,False,,,False,72.2,,False,True,0
+"April 28, 2024",2023-24,Weekend,Pre_Exam,17,Even_Sem,False,,4,False,,,False,72.2,,True,True,0
+"April 29, 2024",2023-24,Weekday,Pre_Exam,18,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+"April 30, 2024",2023-24,Weekday,Pre_Exam,18,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+2024-05-01,2023-24,Weekday,Regular,18,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-05-02,2023-24,WKDAY,Regular,18,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-05-03,2023-24,Weekday,Regular,18,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-05-04,2023-24,Weekend,Regular,18,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2024-05-05,2023-24,Weekend,Exam,18,Even_Sem,True,End_Sem,8,False,,,False,63.7,,True,True,0
+"May 06, 2024",2023-24,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2024-05-07,2023-24,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2024-05-08,2023-24,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2024-05-09,2023-24,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"May 10, 2024",2023-24,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2024-05-11,2023-24,Weekend,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+2024-05-12,2023-24,Weekend,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,63.7,,True,True,0
+13/05/2024,2023-24,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2024-05-14,2023-24,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"May 15, 2024",2023-24,WKDAY,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2024-05-16,2023-24,WKDAY,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2024-05-17,2023-24,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2024-05-18,2023-24,Weekend,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+2024-05-19,2023-24,Weekend,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,63.7,,True,True,0
+"May 20, 2024",2023-24,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+21/05/2024,2023-24,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+"May 22, 2024",2023-24,WKDAY,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+23/05/2024,2023-24,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+24/05/2024,2023-24,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"May 25, 2024",2023-24,Weekend,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+2024-05-26,2023-24,Weekend,Post_Exam,21,Even_Sem,False,,0,False,,,False,80.8,,True,False,0
+"May 27, 2024",2023-24,Weekday,Post_Exam,22,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"May 28, 2024",2023-24,Weekday,Post_Exam,22,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-05-29,2023-24,Weekday,Post_Exam,22,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-05-30,2023-24,Weekday,Post_Exam,22,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-05-31,2023-24,Weekday,Post_Exam,22,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-06-01,2023-24,Weekend,Vacation,22,Summer_Break,False,,0,False,,,False,12.8,,False,True,0
+"June 02, 2024",2023-24,Weekend,Vacation,22,Summer_Break,False,,0,False,,,False,12.8,,True,True,0
+2024-06-03,2023-24,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+04/06/2024,2023-24,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+"June 05, 2024",2023-24,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2024-06-06,2023-24,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2024-06-07,2023-24,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+"June 08, 2024",2023-24,Weekend,Vacation,23,Summer_Break,False,,0,False,,,False,12.8,,False,False,0
+"June 09, 2024",2023-24,Weekend,Vacation,23,Summer_Break,False,,0,False,,,False,12.8,,True,True,0
+2024-06-10,2023-24,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+"June 11, 2024",2023-24,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2024-06-12,2023-24,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+13/06/2024,2023-24,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2024-06-14,2023-24,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,Alumni Weekend,False,True,0
+2024-06-15,2023-24,Weekend,Vacation,24,Summer_Break,False,,0,False,,,False,12.8,,False,True,0
+2024-06-16,2023-24,Weekend,Vacation,24,Summer_Break,False,,0,False,,,False,12.8,,True,False,0
+"June 17, 2024",2023-24,WKDAY,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+"June 18, 2024",2023-24,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+"June 19, 2024",2023-24,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2024-06-20,2023-24,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+"June 21, 2024",2023-24,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+2024-06-22,2023-24,Weekend,Vacation,25,Summer_Break,False,,0,False,,,False,12.8,,False,False,0
+23/06/2024,2023-24,WEEKEND,Vacation,25,Summer_Break,False,,0,False,,,False,12.8,,True,False,0
+24/06/2024,2023-24,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+25/06/2024,2023-24,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+2024-06-26,2023-24,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2024-06-27,2023-24,WKDAY,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2024-06-28,2023-24,WKDAY,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2024-06-29,2023-24,Weekend,Vacation,26,Summer_Break,False,,0,False,,,False,12.8,,False,True,0
+"June 30, 2024",2023-24,Weekend,Vacation,26,Summer_Break,False,,0,False,,,False,12.8,,True,False,0
+"July 01, 2024",2024-25,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2024-07-02,2024-25,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2024-07-03,2024-25,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+04/07/2024,2024-25,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+2024-07-05,2024-25,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2024-07-06,2024-25,Weekend,Vacation,27,Odd_Sem,False,,0,False,,,False,12.8,,False,True,0
+2024-07-07,2024-25,Weekend,Vacation,27,Odd_Sem,False,,0,False,,,False,12.8,,True,True,0
+"July 08, 2024",2024-25,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+"July 09, 2024",2024-25,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2024-07-10,2024-25,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+11/07/2024,2024-25,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+12/07/2024,2024-25,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+13/07/2024,2024-25,Weekend,Vacation,28,Odd_Sem,False,,0,False,,,False,12.8,,False,True,0
+"July 14, 2024",2024-25,WEEKEND,Vacation,28,Odd_Sem,False,,0,False,,,False,12.8,,True,True,0
+2024-07-15,2024-25,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+16/07/2024,2024-25,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+17/07/2024,2024-25,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+18/07/2024,2024-25,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+"July 19, 2024",2024-25,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+2024-07-20,2024-25,Weekend,Vacation,29,Odd_Sem,False,,0,False,,,False,12.8,,False,True,0
+21/07/2024,2024-25,Weekend,Vacation,29,Odd_Sem,False,,0,False,,,False,12.8,,True,True,0
+2024-07-22,2024-25,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2024-07-23,2024-25,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2024-07-24,2024-25,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2024-07-25,2024-25,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+2024-07-26,2024-25,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2024-07-27,2024-25,Weekend,Vacation,30,Odd_Sem,False,,0,False,,,False,12.8,,False,True,0
+2024-07-28,2024-25,Weekend,Vacation,30,Odd_Sem,False,,0,False,,,False,12.8,,True,False,0
+2024-07-29,2024-25,Weekday,Vacation,31,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+30/07/2024,2024-25,Weekday,Vacation,31,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2024-07-31,2024-25,Weekday,Vacation,31,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2024-08-01,2024-25,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-08-02,2024-25,WKDAY,Regular,31,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+"August 03, 2024",2024-25,Weekend,Regular,31,Odd_Sem,False,,0,False,,,False,80.8,,False,False,0
+"August 04, 2024",2024-25,Weekend,Regular,31,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+"August 05, 2024",2024-25,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+06/08/2024,2024-25,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-08-07,2024-25,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+08/08/2024,2024-25,weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-08-09,2024-25,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+10/08/2024,2024-25,Weekend,Regular,32,Odd_Sem,False,,0,False,,,False,80.8,,False,False,0
+11/08/2024,2024-25,weekend,Regular,32,Odd_Sem,False,,0,False,,,False,80.8,,True,False,0
+12/08/2024,2024-25,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-08-13,2024-25,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,95.0,Tech Symposium,False,True,0
+14/08/2024,2024-25,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-08-15,2024-25,Weekday,Regular,33,Odd_Sem,False,,0,True,Independence Day,National,False,61.7,,True,True,0
+2024-08-16,2024-25,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-08-17,2024-25,Weekend,Regular,33,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2024-08-18,2024-25,Weekend,Regular,33,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+2024-08-19,2024-25,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-08-20,2024-25,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+"August 21, 2024",2024-25,Week Day,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+22/08/2024,2024-25,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"August 23, 2024",2024-25,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+24/08/2024,2024-25,Weekend,Regular,34,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2024-08-25,2024-25,Weekend,Regular,34,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+26/08/2024,2024-25,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-08-27,2024-25,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-08-28,2024-25,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-08-29,2024-25,Week Day,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-08-30,2024-25,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-08-31,2024-25,Weekend,Regular,35,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2024-09-01,2024-25,Weekend,Regular,35,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+"September 02, 2024",2024-25,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-09-03,2024-25,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-09-04,2024-25,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-09-05,2024-25,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-09-06,2024-25,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-09-07,2024-25,Weekend,Regular,36,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2024-09-08,2024-25,Weekend,Regular,36,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+2024-09-09,2024-25,Week Day,Regular,37,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-09-10,2024-25,Week Day,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+11/09/2024,2024-25,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,False,0
+"September 12, 2024",2024-25,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2024-09-13,2024-25,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+"September 14, 2024",2024-25,Weekend,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,63.7,,False,False,0
+2024-09-15,2024-25,Weekend,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,63.7,,True,True,0
+2024-09-16,2024-25,Weekday,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2024-09-17,2024-25,Weekday,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,False,0
+2024-09-18,2024-25,Weekday,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2024-09-19,2024-25,weekday,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+"September 20, 2024",2024-25,Weekday,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2024-09-21,2024-25,Weekend,Regular,38,Odd_Sem,False,,0,False,,,False,80.8,,False,False,0
+22/09/2024,2024-25,Weekend,Regular,38,Odd_Sem,False,,0,False,,,False,80.8,,True,False,0
+2024-09-23,2024-25,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-09-24,2024-25,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-09-25,2024-25,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-09-26,2024-25,WKDAY,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-09-27,2024-25,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+"September 28, 2024",2024-25,Weekend,Regular,39,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+29/09/2024,2024-25,Weekend,Regular,39,Odd_Sem,False,,0,False,,,False,80.8,,True,False,0
+2024-09-30,2024-25,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-10-01,2024-25,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-10-02,2024-25,Weekday,Regular,40,Odd_Sem,False,,0,True,Gandhi Jayanti,National,False,61.7,,True,True,0
+2024-10-03,2024-25,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+04/10/2024,2024-25,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-10-05,2024-25,Weekend,Regular,40,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+06/10/2024,2024-25,Weekend,Regular,40,Odd_Sem,False,,0,False,,,False,80.8,,True,False,0
+07/10/2024,2024-25,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-10-08,2024-25,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-10-09,2024-25,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+"October 10, 2024",2024-25,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-10-11,2024-25,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-10-12,2024-25,Weekend,Regular,41,Odd_Sem,False,,0,False,,,False,80.8,Tech Symposium,False,True,0
+2024-10-13,2024-25,Weekend,Regular,41,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+"October 14, 2024",2024-25,Weekday,Regular,42,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-10-15,2024-25,Week Day,Regular,42,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+16/10/2024,2024-25,Week Day,Regular,42,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-10-17,2024-25,Weekday,Regular,42,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-10-18,2024-25,Weekday,Regular,42,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2024-10-19,2024-25,Weekend,Regular,42,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2024-10-20,2024-25,Weekend,Pre_Exam,42,Odd_Sem,False,,4,False,,,False,72.2,,True,True,0
+2024-10-21,2024-25,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+"October 22, 2024",2024-25,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+23/10/2024,2024-25,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,False,0
+2024-10-24,2024-25,WKDAY,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,False,0
+2024-10-25,2024-25,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,False,0
+"October 26, 2024",2024-25,Weekend,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,72.2,,False,False,0
+"October 27, 2024",2024-25,wknd,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,72.2,,True,False,0
+2024-10-28,2024-25,Weekday,Pre_Exam,44,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+2024-10-29,2024-25,Weekday,Pre_Exam,44,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+30/10/2024,2024-25,Weekday,Pre_Exam,44,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+2024-10-31,2024-25,Weekday,Pre_Exam,44,Odd_Sem,False,,4,True,Diwali,Religious,False,55.2,,True,False,0
+"November 01, 2024",2024-25,Weekday,Regular,44,Odd_Sem,False,,0,True,Diwali,Religious,False,61.7,,True,False,0
+"November 02, 2024",2024-25,Weekend,Regular,44,Odd_Sem,False,,0,True,Diwali,Religious,True,36.7,,True,False,0
+"November 03, 2024",2024-25,Weekend,Regular,44,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+2024-11-04,2024-25,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+05/11/2024,2024-25,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+06/11/2024,2024-25,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-11-07,2024-25,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+08/11/2024,2024-25,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2024-11-09,2024-25,Weekend,Regular,45,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2024-11-10,2024-25,Weekend,Exam,45,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,True,True,0
+2024-11-11,2024-25,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2024-11-12,2024-25,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"November 13, 2024",2024-25,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2024-11-14,2024-25,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2024-11-15,2024-25,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+16/11/2024,2024-25,Weekend,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+2024-11-17,2024-25,Weekend,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,True,True,0
+"November 18, 2024",2024-25,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2024-11-19,2024-25,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2024-11-20,2024-25,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+21/11/2024,2024-25,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"November 22, 2024",2024-25,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2024-11-23,2024-25,Weekend,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+2024-11-24,2024-25,Weekend,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,True,False,0
+2024-11-25,2024-25,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2024-11-26,2024-25,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"November 27, 2024",2024-25,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2024-11-28,2024-25,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2024-11-29,2024-25,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2024-11-30,2024-25,Weekend,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+2024-12-01,2024-25,Weekend,Post_Exam,48,Summer_Break,False,,0,False,,,False,80.8,,True,False,0
+2024-12-02,2024-25,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,False,0
+2024-12-03,2024-25,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+04/12/2024,2024-25,Week Day,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2024-12-05,2024-25,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+"December 06, 2024",2024-25,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,False,0
+2024-12-07,2024-25,Weekend,Post_Exam,49,Summer_Break,False,,0,False,,,False,80.8,,False,False,0
+2024-12-08,2024-25,Weekend,Post_Exam,49,Summer_Break,False,,0,False,,,False,80.8,,True,False,0
+2024-12-09,2024-25,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2024-12-10,2024-25,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+"December 11, 2024",2024-25,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,Alumni Weekend,False,True,0
+2024-12-12,2024-25,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+"December 13, 2024",2024-25,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2024-12-14,2024-25,Weekend,Post_Exam,50,Summer_Break,False,,0,False,,,False,80.8,,False,True,0
+"December 15, 2024",2024-25,Weekend,Post_Exam,50,Summer_Break,False,,0,False,,,False,80.8,,True,False,0
+16/12/2024,2024-25,Weekday,Post_Exam,51,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+17/12/2024,2024-25,Weekday,Post_Exam,51,Summer_Break,False,,0,False,,,False,95.0,,False,False,0
+"December 18, 2024",2024-25,Weekday,Post_Exam,51,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2024-12-19,2024-25,Weekday,Post_Exam,51,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2024-12-20,2024-25,Weekday,Vacation,51,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+21/12/2024,2024-25,Weekend,Vacation,51,Summer_Break,False,,0,False,,,False,12.8,,False,True,0
+2024-12-22,2024-25,Weekend,Vacation,51,Summer_Break,False,,0,False,,,False,12.8,,True,True,0
+2024-12-23,2024-25,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2024-12-24,2024-25,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+2024-12-25,2024-25,Weekday,Vacation,52,Summer_Break,False,,0,True,Christmas,Religious,False,9.8,,True,True,0
+2024-12-26,2024-25,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+"December 27, 2024",2024-25,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+28/12/2024,2024-25,WEEKEND,Vacation,52,Summer_Break,False,,0,False,,,False,12.8,,False,True,0
+"December 29, 2024",2024-25,Weekend,Vacation,52,Summer_Break,False,,0,False,,,False,12.8,,True,False,0
+2024-12-30,2024-25,Weekday,Vacation,53,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+31/12/2024,2024-25,Weekday,Vacation,53,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2025-01-01,2024-25,Week Day,Orientation,1,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+"January 02, 2025",2024-25,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"January 03, 2025",2024-25,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-01-04,2024-25,Weekend,Orientation,1,Even_Sem,False,,0,False,,,False,80.8,,False,False,0
+05/01/2025,2024-25,Weekend,Orientation,1,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+2025-01-06,2024-25,Week Day,Orientation,1,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-01-07,2024-25,Weekday,Orientation,1,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-01-08,2024-25,Weekday,Orientation,2,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-01-09,2024-25,Weekday,Orientation,2,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+10/01/2025,2024-25,Weekday,Orientation,2,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+11/01/2025,2024-25,Weekend,Regular,2,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2025-01-12,2024-25,Weekend,Regular,2,Even_Sem,False,,0,False,,,False,80.8,,True,False,0
+2025-01-13,2024-25,Weekday,Regular,2,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"January 14, 2025",2024-25,Weekday,Regular,2,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+15/01/2025,2024-25,weekday,Regular,3,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-01-16,2024-25,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+17/01/2025,2024-25,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+"January 18, 2025",2024-25,Weekend,Regular,3,Even_Sem,False,,0,False,,,False,80.8,,False,False,0
+"January 19, 2025",2024-25,Weekend,Regular,3,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+2025-01-20,2024-25,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"January 21, 2025",2024-25,Weekday,Regular,3,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+22/01/2025,2024-25,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-01-23,2024-25,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-01-24,2024-25,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-01-25,2024-25,Weekend,Regular,4,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+26/01/2025,2024-25,Weekend,Regular,4,Even_Sem,False,,0,True,Republic Day,National,True,36.7,,True,False,0
+2025-01-27,2024-25,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-01-28,2024-25,Weekday,Regular,4,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+"January 29, 2025",2024-25,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-01-30,2024-25,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"January 31, 2025",2024-25,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+"February 01, 2025",2024-25,Weekend,Regular,5,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2025-02-02,2024-25,Weekend,Regular,5,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+"February 03, 2025",2024-25,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+"February 04, 2025",2024-25,Weekday,Regular,5,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-02-05,2024-25,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"February 06, 2025",2024-25,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-02-07,2024-25,Week Day,Regular,6,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"February 08, 2025",2024-25,Weekend,Regular,6,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+09/02/2025,2024-25,Weekend,Regular,6,Even_Sem,False,,0,False,,,False,80.8,Cultural Fest,True,True,0
+10/02/2025,2024-25,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"February 11, 2025",2024-25,Weekday,Regular,6,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-02-12,2024-25,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-02-13,2024-25,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-02-14,2024-25,WKDAY,Regular,7,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-02-15,2024-25,WEEKEND,Regular,7,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2025-02-16,2024-25,Weekend,Regular,7,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+2025-02-17,2024-25,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+18/02/2025,2024-25,Weekday,Regular,7,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-02-19,2024-25,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-02-20,2024-25,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-02-21,2024-25,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+22/02/2025,2024-25,Weekend,Regular,8,Even_Sem,False,,0,False,,,False,80.8,,False,False,0
+23/02/2025,2024-25,Weekend,Regular,8,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+2025-02-24,2024-25,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-02-25,2024-25,Weekday,Regular,8,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-02-26,2024-25,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"February 27, 2025",2024-25,WKDAY,Regular,9,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-02-28,2024-25,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"March 01, 2025",2024-25,Weekend,Regular,9,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2025-03-02,2024-25,Weekend,Regular,9,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+03/03/2025,2024-25,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-03-04,2024-25,Weekday,Regular,9,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-03-05,2024-25,Weekday,Regular,10,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-03-06,2024-25,Weekday,Regular,10,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-03-07,2024-25,Weekday,Regular,10,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"March 08, 2025",2024-25,Weekend,Regular,10,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2025-03-09,2024-25,Weekend,Regular,10,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+"March 10, 2025",2024-25,Weekday,Exam,10,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2025-03-11,2024-25,Weekday,Exam,10,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+12/03/2025,2024-25,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2025-03-13,2024-25,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,True,Holi,Religious,False,48.8,,True,True,0
+"March 14, 2025",2024-25,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,True,Holi,Religious,False,48.8,,True,True,0
+15/03/2025,2024-25,Weekend,Exam,11,Even_Sem,True,Mid_Sem,5,True,Holi,Religious,True,29.0,,True,True,0
+16/03/2025,2024-25,Weekend,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,63.7,,True,False,0
+2025-03-17,2024-25,WKDAY,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+"March 18, 2025",2024-25,Weekday,Exam,11,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2025-03-19,2024-25,Weekday,Exam,12,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,False,0
+"March 20, 2025",2024-25,Weekday,Exam,12,Even_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+"March 21, 2025",2024-25,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-03-22,2024-25,Weekend,Regular,12,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+23/03/2025,2024-25,Weekend,Regular,12,Even_Sem,False,,0,False,,,False,80.8,,True,False,0
+2025-03-24,2024-25,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-03-25,2024-25,Weekday,Regular,12,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"March 26, 2025",2024-25,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+"March 27, 2025",2024-25,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+28/03/2025,2024-25,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-03-29,2024-25,Weekend,Regular,13,Even_Sem,False,,0,True,Eid,Religious,False,52.5,,True,False,0
+2025-03-30,2024-25,Weekend,Regular,13,Even_Sem,False,,0,True,Eid,Religious,True,36.7,,True,True,0
+31/03/2025,2024-25,Weekday,Regular,13,Even_Sem,False,,0,True,Eid,Religious,False,61.7,,True,True,0
+2025-04-01,2024-25,Weekday,Regular,13,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-04-02,2024-25,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-04-03,2024-25,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+04/04/2025,2024-25,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-04-05,2024-25,Weekend,Regular,14,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+2025-04-06,2024-25,Weekend,Regular,14,Even_Sem,False,,0,False,,,False,80.8,,True,False,0
+"April 07, 2025",2024-25,WKDAY,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-04-08,2024-25,Weekday,Regular,14,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-04-09,2024-25,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-04-10,2024-25,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,Annual Day,False,True,0
+2025-04-11,2024-25,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+12/04/2025,2024-25,WEEKEND,Regular,15,Even_Sem,False,,0,False,,,False,80.8,,False,False,0
+2025-04-13,2024-25,Weekend,Regular,15,Even_Sem,False,,0,False,,,False,80.8,,True,True,0
+"April 14, 2025",2024-25,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+"April 15, 2025",2024-25,Weekday,Regular,15,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-04-16,2024-25,Weekday,Regular,16,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+17/04/2025,2024-25,Weekday,Regular,16,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+18/04/2025,2024-25,Weekday,Regular,16,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-04-19,2024-25,Weekend,Regular,16,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+"April 20, 2025",2024-25,Weekend,Pre_Exam,16,Even_Sem,False,,4,False,,,False,72.2,,True,True,0
+2025-04-21,2024-25,Weekday,Pre_Exam,16,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+2025-04-22,2024-25,Weekday,Pre_Exam,16,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+23/04/2025,2024-25,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,False,0
+2025-04-24,2024-25,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,False,0
+2025-04-25,2024-25,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+2025-04-26,2024-25,Weekend,Pre_Exam,17,Even_Sem,False,,4,False,,,False,72.2,,False,False,0
+27/04/2025,2024-25,Weekend,Pre_Exam,17,Even_Sem,False,,4,False,,,False,72.2,,True,True,0
+2025-04-28,2024-25,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,False,0
+2025-04-29,2024-25,Weekday,Pre_Exam,17,Even_Sem,False,,4,False,,,False,85.0,,False,False,0
+2025-04-30,2024-25,Weekday,Pre_Exam,18,Even_Sem,False,,4,False,,,False,85.0,,False,True,0
+2025-05-01,2024-25,Weekday,Regular,18,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-05-02,2024-25,Weekday,Regular,18,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-05-03,2024-25,Weekend,Regular,18,Even_Sem,False,,0,False,,,False,80.8,,False,False,0
+2025-05-04,2024-25,Weekend,Regular,18,Even_Sem,False,,0,False,,,False,80.8,,True,False,0
+2025-05-05,2024-25,Weekday,Exam,18,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2025-05-06,2024-25,Weekday,Exam,18,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2025-05-07,2024-25,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"May 08, 2025",2024-25,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+09/05/2025,2024-25,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2025-05-10,2024-25,Weekend,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+2025-05-11,2024-25,Weekend,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,63.7,,True,True,0
+2025-05-12,2024-25,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2025-05-13,2024-25,Weekday,Exam,19,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+14/05/2025,2024-25,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+"May 15, 2025",2024-25,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2025-05-16,2024-25,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2025-05-17,2024-25,Weekend,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+"May 18, 2025",2024-25,Weekend,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,63.7,,True,False,0
+2025-05-19,2024-25,Week Day,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2025-05-20,2024-25,Weekday,Exam,20,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"May 21, 2025",2024-25,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"May 22, 2025",2024-25,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+23/05/2025,2024-25,Weekday,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+24/05/2025,2024-25,Weekend,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+25/05/2025,2024-25,Weekend,Exam,21,Even_Sem,True,End_Sem,8,False,,,False,63.7,,True,True,0
+26/05/2025,2024-25,Weekday,Post_Exam,21,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-05-27,2024-25,Weekday,Post_Exam,21,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-05-28,2024-25,Weekday,Post_Exam,22,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+29/05/2025,2024-25,Weekday,Post_Exam,22,Even_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-05-30,2024-25,Weekday,Post_Exam,22,Even_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-05-31,2024-25,Weekend,Post_Exam,22,Even_Sem,False,,0,False,,,False,80.8,,False,True,0
+"June 01, 2025",2024-25,Weekend,Vacation,22,Summer_Break,False,,0,False,,,False,12.8,,True,True,0
+2025-06-02,2024-25,Weekday,Vacation,22,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2025-06-03,2024-25,Weekday,Vacation,22,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+04/06/2025,2024-25,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2025-06-05,2024-25,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2025-06-06,2024-25,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+"June 07, 2025",2024-25,Weekend,Vacation,23,Summer_Break,False,,0,False,,,False,12.8,,False,True,0
+2025-06-08,2024-25,Weekend,Vacation,23,Summer_Break,False,,0,False,,,False,12.8,,True,True,0
+2025-06-09,2024-25,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,Tech Symposium,False,True,0
+10/06/2025,2024-25,Weekday,Vacation,23,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2025-06-11,2024-25,WKDAY,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+2025-06-12,2024-25,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+13/06/2025,2024-25,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+2025-06-14,2024-25,Weekend,Vacation,24,Summer_Break,False,,0,False,,,False,12.8,,False,True,0
+2025-06-15,2024-25,Weekend,Vacation,24,Summer_Break,False,,0,False,,,False,12.8,,True,True,0
+2025-06-16,2024-25,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2025-06-17,2024-25,Weekday,Vacation,24,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+"June 18, 2025",2024-25,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2025-06-19,2024-25,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2025-06-20,2024-25,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2025-06-21,2024-25,Weekend,Vacation,25,Summer_Break,False,,0,False,,,False,12.8,,False,False,0
+2025-06-22,2024-25,Weekend,Vacation,25,Summer_Break,False,,0,False,,,False,12.8,,True,True,0
+23/06/2025,2024-25,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2025-06-24,2024-25,Weekday,Vacation,25,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2025-06-25,2024-25,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+"June 26, 2025",2024-25,Week Day,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+2025-06-27,2024-25,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+28/06/2025,2024-25,Weekend,Vacation,26,Summer_Break,False,,0,False,,,False,12.8,,False,True,0
+2025-06-29,2024-25,Weekend,Vacation,26,Summer_Break,False,,0,False,,,False,12.8,,True,True,0
+"June 30, 2025",2024-25,Weekday,Vacation,26,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+2025-07-01,2025-26,Weekday,Vacation,26,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+"July 02, 2025",2025-26,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2025-07-03,2025-26,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+"July 04, 2025",2025-26,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2025-07-05,2025-26,Weekend,Vacation,27,Odd_Sem,False,,0,False,,,False,12.8,,False,True,0
+2025-07-06,2025-26,Weekend,Vacation,27,Odd_Sem,False,,0,False,,,False,12.8,,True,False,0
+2025-07-07,2025-26,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+"July 08, 2025",2025-26,Weekday,Vacation,27,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+"July 09, 2025",2025-26,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2025-07-10,2025-26,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2025-07-11,2025-26,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2025-07-12,2025-26,Weekend,Vacation,28,Odd_Sem,False,,0,False,,,False,12.8,,False,True,0
+2025-07-13,2025-26,Weekend,Vacation,28,Odd_Sem,False,,0,False,,,False,12.8,,True,True,0
+14/07/2025,2025-26,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+2025-07-15,2025-26,Weekday,Vacation,28,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+16/07/2025,2025-26,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2025-07-17,2025-26,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+18/07/2025,2025-26,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+2025-07-19,2025-26,Weekend,Vacation,29,Odd_Sem,False,,0,False,,,False,12.8,,False,True,0
+2025-07-20,2025-26,Weekend,Vacation,29,Odd_Sem,False,,0,False,,,False,12.8,,True,False,0
+21/07/2025,2025-26,weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+2025-07-22,2025-26,Weekday,Vacation,29,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+23/07/2025,2025-26,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+24/07/2025,2025-26,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2025-07-25,2025-26,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+26/07/2025,2025-26,Weekend,Vacation,30,Odd_Sem,False,,0,False,,,False,12.8,,False,False,0
+27/07/2025,2025-26,Weekend,Vacation,30,Odd_Sem,False,,0,False,,,False,12.8,,True,False,0
+28/07/2025,2025-26,Week Day,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2025-07-29,2025-26,Weekday,Vacation,30,Odd_Sem,False,,0,False,,,False,15.0,,False,False,0
+2025-07-30,2025-26,weekday,Vacation,31,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+31/07/2025,2025-26,Weekday,Vacation,31,Odd_Sem,False,,0,False,,,False,15.0,,False,True,0
+2025-08-01,2025-26,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-08-02,2025-26,Weekend,Regular,31,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2025-08-03,2025-26,Weekend,Regular,31,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+2025-08-04,2025-26,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-08-05,2025-26,Weekday,Regular,31,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-08-06,2025-26,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+07/08/2025,2025-26,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-08-08,2025-26,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,Alumni Weekend,False,False,0
+2025-08-09,2025-26,Weekend,Regular,32,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+10/08/2025,2025-26,Weekend,Regular,32,Odd_Sem,False,,0,False,,,False,80.8,,True,False,0
+2025-08-11,2025-26,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+12/08/2025,2025-26,Weekday,Regular,32,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-08-13,2025-26,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+14/08/2025,2025-26,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+15/08/2025,2025-26,Weekday,Regular,33,Odd_Sem,False,,0,True,Independence Day,National,False,61.7,,True,False,0
+2025-08-16,2025-26,wknd,Regular,33,Odd_Sem,False,,0,False,,,True,56.5,,False,False,0
+17/08/2025,2025-26,Weekend,Regular,33,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+2025-08-18,2025-26,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-08-19,2025-26,Weekday,Regular,33,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"August 20, 2025",2025-26,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-08-21,2025-26,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+22/08/2025,2025-26,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"August 23, 2025",2025-26,Weekend,Regular,34,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2025-08-24,2025-26,Weekend,Regular,34,Odd_Sem,False,,0,False,,,False,80.8,,True,False,0
+"August 25, 2025",2025-26,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+"August 26, 2025",2025-26,Weekday,Regular,34,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-08-27,2025-26,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-08-28,2025-26,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-08-29,2025-26,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+"August 30, 2025",2025-26,Weekend,Regular,35,Odd_Sem,False,,0,False,,,False,80.8,,False,False,0
+"August 31, 2025",2025-26,Weekend,Regular,35,Odd_Sem,False,,0,False,,,False,80.8,,True,False,0
+2025-09-01,2025-26,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-09-02,2025-26,Weekday,Regular,35,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-09-03,2025-26,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-09-04,2025-26,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+05/09/2025,2025-26,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-09-06,2025-26,weekend,Regular,36,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+07/09/2025,2025-26,Weekend,Regular,36,Odd_Sem,False,,0,False,,,False,80.8,,True,False,0
+2025-09-08,2025-26,WKDAY,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+09/09/2025,2025-26,Weekday,Regular,36,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+10/09/2025,2025-26,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2025-09-11,2025-26,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,False,0
+"September 12, 2025",2025-26,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+2025-09-13,2025-26,Weekend,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,63.7,,False,False,0
+2025-09-14,2025-26,Weekend,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,63.7,,True,False,0
+2025-09-15,2025-26,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+"September 16, 2025",2025-26,Weekday,Exam,37,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,False,0
+2025-09-17,2025-26,Weekday,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+"September 18, 2025",2025-26,Weekday,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,True,0
+19/09/2025,2025-26,Weekday,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,75.0,,False,False,0
+20/09/2025,2025-26,Weekend,Exam,38,Odd_Sem,True,Mid_Sem,5,False,,,False,63.7,,False,False,0
+2025-09-21,2025-26,Weekend,Regular,38,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+22/09/2025,2025-26,Weekday,Regular,38,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-09-23,2025-26,Weekday,Regular,38,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-09-24,2025-26,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+25/09/2025,2025-26,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+26/09/2025,2025-26,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-09-27,2025-26,Weekend,Regular,39,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2025-09-28,2025-26,Weekend,Regular,39,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+29/09/2025,2025-26,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+30/09/2025,2025-26,Weekday,Regular,39,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-10-01,2025-26,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+02/10/2025,2025-26,Weekday,Regular,40,Odd_Sem,False,,0,True,Gandhi Jayanti,National,False,61.7,,True,True,0
+03/10/2025,2025-26,WKDAY,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"October 04, 2025",2025-26,Weekend,Regular,40,Odd_Sem,False,,0,False,,,False,80.8,,False,False,0
+2025-10-05,2025-26,Weekend,Regular,40,Odd_Sem,False,,0,False,,,False,80.8,,True,False,0
+2025-10-06,2025-26,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-10-07,2025-26,Weekday,Regular,40,Odd_Sem,False,,0,False,,,False,95.0,Alumni Weekend,False,True,0
+"October 08, 2025",2025-26,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-10-09,2025-26,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-10-10,2025-26,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-10-11,2025-26,Weekend,Regular,41,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+12/10/2025,2025-26,Weekend,Regular,41,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+"October 13, 2025",2025-26,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+2025-10-14,2025-26,Weekday,Regular,41,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"October 15, 2025",2025-26,Weekday,Regular,42,Odd_Sem,False,,0,False,,,False,95.0,,False,False,0
+16/10/2025,2025-26,Weekday,Regular,42,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"October 17, 2025",2025-26,Weekday,Regular,42,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-10-18,2025-26,Weekend,Regular,42,Odd_Sem,False,,0,False,,,False,80.8,,False,False,0
+19/10/2025,2025-26,Weekend,Regular,42,Odd_Sem,False,,0,True,Diwali,Religious,True,36.7,,True,False,0
+2025-10-20,2025-26,Weekday,Pre_Exam,42,Odd_Sem,False,,4,True,Diwali,Religious,False,55.2,,True,False,0
+2025-10-21,2025-26,Weekday,Pre_Exam,42,Odd_Sem,False,,4,True,Diwali,Religious,False,55.2,,True,False,0
+2025-10-22,2025-26,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+"October 23, 2025",2025-26,weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,False,0
+"October 24, 2025",2025-26,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,False,0
+2025-10-25,2025-26,Weekend,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,72.2,,False,True,0
+2025-10-26,2025-26,weekend,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,72.2,,True,True,0
+2025-10-27,2025-26,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+2025-10-28,2025-26,Weekday,Pre_Exam,43,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+2025-10-29,2025-26,Weekday,Pre_Exam,44,Odd_Sem,False,,4,False,,,False,85.0,,False,True,0
+30/10/2025,2025-26,Weekday,Pre_Exam,44,Odd_Sem,False,,4,False,,,False,85.0,,False,False,0
+2025-10-31,2025-26,Weekday,Pre_Exam,44,Odd_Sem,False,,4,False,,,False,85.0,,False,False,0
+01/11/2025,2025-26,Weekend,Regular,44,Odd_Sem,False,,0,False,,,False,80.8,,False,True,0
+2025-11-02,2025-26,Weekend,Regular,44,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+2025-11-03,2025-26,weekday,Regular,44,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-11-04,2025-26,Weekday,Regular,44,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-11-05,2025-26,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+"November 06, 2025",2025-26,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-11-07,2025-26,Weekday,Regular,45,Odd_Sem,False,,0,False,,,False,95.0,,False,True,0
+2025-11-08,2025-26,Weekend,Regular,45,Odd_Sem,False,,0,False,,,False,80.8,,False,False,0
+2025-11-09,2025-26,Weekend,Regular,45,Odd_Sem,False,,0,False,,,False,80.8,,True,True,0
+2025-11-10,2025-26,Weekday,Exam,45,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2025-11-11,2025-26,Weekday,Exam,45,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2025-11-12,2025-26,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+13/11/2025,2025-26,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2025-11-14,2025-26,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2025-11-15,2025-26,Weekend,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+"November 16, 2025",2025-26,Weekend,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,True,True,0
+2025-11-17,2025-26,Weekday,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+18/11/2025,2025-26,Week Day,Exam,46,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+19/11/2025,2025-26,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"November 20, 2025",2025-26,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+2025-11-21,2025-26,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"November 22, 2025",2025-26,Weekend,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,False,False,0
+2025-11-23,2025-26,Weekend,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,True,False,0
+2025-11-24,2025-26,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2025-11-25,2025-26,Weekday,Exam,47,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,False,0
+"November 26, 2025",2025-26,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+"November 27, 2025",2025-26,Weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+2025-11-28,2025-26,weekday,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,75.0,,False,True,0
+29/11/2025,2025-26,Weekend,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,False,True,0
+2025-11-30,2025-26,Weekend,Exam,48,Odd_Sem,True,End_Sem,8,False,,,False,63.7,,True,True,0
+2025-12-01,2025-26,Weekday,Post_Exam,48,Summer_Break,False,,0,False,,,False,95.0,,False,False,0
+2025-12-02,2025-26,Weekday,Post_Exam,48,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+03/12/2025,2025-26,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2025-12-04,2025-26,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+05/12/2025,2025-26,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2025-12-06,2025-26,Weekend,Post_Exam,49,Summer_Break,False,,0,False,,,False,80.8,,False,True,0
+2025-12-07,2025-26,Weekend,Post_Exam,49,Summer_Break,False,,0,False,,,False,80.8,,True,True,0
+2025-12-08,2025-26,Week Day,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2025-12-09,2025-26,Weekday,Post_Exam,49,Summer_Break,False,,0,False,,,False,95.0,,False,False,0
+"December 10, 2025",2025-26,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,False,0
+2025-12-11,2025-26,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+12/12/2025,2025-26,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2025-12-13,2025-26,Weekend,Post_Exam,50,Summer_Break,False,,0,False,,,False,80.8,,False,True,0
+"December 14, 2025",2025-26,Weekend,Post_Exam,50,Summer_Break,False,,0,False,,,False,80.8,,True,True,0
+2025-12-15,2025-26,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,False,0
+2025-12-16,2025-26,Weekday,Post_Exam,50,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+"December 17, 2025",2025-26,Weekday,Post_Exam,51,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+2025-12-18,2025-26,Weekday,Post_Exam,51,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+"December 19, 2025",2025-26,Week Day,Post_Exam,51,Summer_Break,False,,0,False,,,False,95.0,,False,True,0
+20/12/2025,2025-26,Weekend,Vacation,51,Summer_Break,False,,0,False,,,False,12.8,,False,False,0
+2025-12-21,2025-26,Weekend,Vacation,51,Summer_Break,False,,0,False,,,False,12.8,,True,False,0
+2025-12-22,2025-26,Weekday,Vacation,51,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2025-12-23,2025-26,Weekday,Vacation,51,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2025-12-24,2025-26,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
+2025-12-25,2025-26,Weekday,Vacation,52,Summer_Break,False,,0,True,Christmas,Religious,False,9.8,,True,True,0
+"December 26, 2025",2025-26,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2025-12-27,2025-26,Weekend,Vacation,52,Summer_Break,False,,0,False,,,False,12.8,,False,True,0
+2025-12-28,2025-26,Weekend,Vacation,52,Summer_Break,False,,0,False,,,False,12.8,,True,False,0
+2025-12-29,2025-26,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+"December 30, 2025",2025-26,Weekday,Vacation,52,Summer_Break,False,,0,False,,,False,15.0,,False,True,0
+2025-12-31,2025-26,Weekday,Vacation,53,Summer_Break,False,,0,False,,,False,15.0,,False,False,0
